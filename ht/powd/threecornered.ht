@@ -1,0 +1,102 @@
+!htmlpath!	powd/
+!htmlroot!	../
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Selections from the Life and Works of Robin Goodfellow, Musician, Artist, Educator</title>
+<style>
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+header {
+    padding: 1em;
+    color: black;
+    background-color: white;
+    clear: left;
+    text-align: center;
+}
+header, footer {
+    padding: 1em;
+    color: black;
+    background-color: white;
+    clear: both;
+}
+
+nav {
+    float: left;
+    max-width: 200px;
+    margin: 0;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+
+.imgHolder {
+	text-align: justify;
+	width:	250 px;
+}
+.imgHolder img {
+	display: block;
+	margine: 0 auto;
+}
+u {
+    text-decoration: underline;
+}
+
+</style>
+<body>
+<header>
+	In Memory of
+	<h1 style="text-align:center">Robin Goodfellow</h1>
+	<h2 style="text-align:center">Musician, Artist, Educator, Performer, Designer, ...</h2>
+	<p style="text-align:center">1940-2017</p>
+</header>	
+!!pwdr!
+<article>
+	<h1>Mr. Powderface, Rascal Cat</h1>
+<h2>Three Cornered Cat</h2>
+<h3>by Robin Goodfellow, 2015</h3>
+<p>Angela Belgrove worked long hours and her cat, Mr. Powderface, was bored.  He prowled the house, looking for entertainment.  Angela had left her computer on.  It was still warm, so Mr. Powderface took a nap on top.  When he woke up, he looked at the screen.  (Upside down images didn't bother him a bit.)  He batted at the moving figures on the screen saver, lost his balance, and fell on the keys.  The computer, set to auto-dial the internet immediately logged on and up came a news item.</p>
+<p>"Chicago Ape beats market".  There were details.  Mr. Powderface called the Chicago zoo.  He reached the Ape and asked his advice.  "Corner the market," said the Ape.  Mr. Powderface turned to Angela's stock portfolio.  Angela, to save time, had a password override.  Mr. Powderface looked at all the fine print and numbers.  He pressed various keys and numbers changed.  This was fun.  He saw interesting commodities he recognized from reading Jason's Pokemon comics.</p>
+<p>He decided to corner three markets:  Flame resistant curry-combs, Squirtle was, and Snorlax size sleeping bags.  He bought up <em>all</em> the stock, that is, Angela did, but she didn't know it.</p>
+<p>Friday night, Eric was trying to help Jason with his homework.  "Arithmetic is no fun!" said Jason.  Eric, a very resourceful teacher, thought how he could make it more interesting.  He saw that Angela's computer was still on.  "Here," he said.  "Here are a lot of numbers.  See, here is money that she had yesterday and here is money she has today.  Now see how you subtract today from yesterday and yesterday from the day before...".</p>
+<p>Jason was interested.  He saw what Eric had overlooked.  The things being purchased were words he knew.  Flame resistant curry-combs?  That must be for Ponyta.  Wax for Squirle's shiny back, and sleeping bags for Sorlaxes.  Made sense to him.  This was fun.  Instantly he learned subtraction and even borrowing with very big numbers.  Eric was pleased with his son.  The significance of the numbers was completely lost on him and he happily sang Jason to sleep that night, proud of them both.</p>
+<p>Next day, Saturday, Angela was home when the phone rang.  "Hey, wanna maka deal?  Gimme a few carloads of those curry combs...make me a good price...we can do business together."</p>
+<p>Angela didn't recognize the voice and thought it was a crank call.  "No thank you," She said politely and hung up.  Then a call came asking about Snorlax sleeping bags and three calls came in wanting to buy Squirtle was.  Angela was so disgusted with the avalanche of crank calls that she suggested they all go out for brunch, leaving the phone to the answering machine.</p>
+<p>When they left, Mr. Powderface jumped up to the screen again.  He called the Ape in Chicago, who advised him to sell. </p>
+<p>Mr. Powderface chose the highest bidder from all the offers and sold out the entire stock.  Then he tired of playing this game and went back to batting dinosaurs.</p>
+<p>Angela and family came home from brunch.  Angela sat down to play the recorder.  Eric sat Jason at the computer.  "Oh," he said, "Looks like we do addition today.  "Jason squirmed on the seat.  "I can't do this, Dad," he said.  "Those numbers are too big!"  Eric looked again.  They were.  He read them off, to show Jason how to find the different places.  "See, this is three million, 400 thousand five hundred and three dollars and sixty five cents three hours ago.  Five million, eight hundred forty two thousand, six hundred fifty-one dollars and twenty five cents one hour ago and here, it says six million, 200 thousand, eight hundred eighty dollars and 99 cents now.  Wonder what this all means...."</p>
+<p>Angela, playing the recorder, heard them saying the numbers.  "What are you guys doing?" she asked.  She went in and looked at her computer.</p>
+<p>"What happened?" she cried in such an hysterical voice that Eric and Jason immediately claimed no responsibility.  Claiming total innocence, they backed away from her toward the door.</p>
+<p>"I can't believe this!  Who has been trading on my stock?"  Then she remembered that she had been playing the recorder.  Every other time she had played, magical things had happened.  But this was something else!  She punched a few keys, verified the numbers, and rushed Eric and Jason with her to the bank.  Eric blinked when he saw her withdraw all that money.</p>
+<p>"Here," said Angela.  Take this money.  Get your dream car.  Buy Jason all the Pokemon he wants!  We're millionaires!!!"</p>
+<p>Eric knew better than to ask questions.  He kidded her tenderly on the cheek and took Jason by the hand.  He turned back.  "What are <u><em>you</em></u> going to do?</p>
+<p>"I'm going home to practice.  I think that is the most important thing I can do!"
+<br>She open her lesson to her new Piece.  "My Cat, He has Three Corners."  She practiced it diligently.</p>
+<footer>
+	<hr>
+	<p>This early Mr. Powderface story was inspired by one of the teaching songs,
+	<em>Three Cornered Hat</em>, which begins "My hat it has three corners...".  The time period may be guessed because it's assumed that a computer would use a dial-up modem, but that there would be internet access.  Other internal evidence tends to place it around 2012-13.</p>
+	<p>The text on this page is published under the <a href="../CC_BY_SA.html">
+	Creative Commons Attribution-ShareAlike 4.0</a> International license,
+	also denoted "CC BY-SA 4.0"</p>
+</footer>
+</body>
+</html>

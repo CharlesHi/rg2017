@@ -1,0 +1,75 @@
+!htmlpath!	powd/
+!htmlroot!	../
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Selections from the Life and Works of Robin Goodfellow, Musician, Artist, Educator</title>
+<style>
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+header {
+    padding: 1em;
+    color: black;
+    background-color: white;
+    clear: left;
+    text-align: center;
+}
+header, footer {
+    padding: 1em;
+    color: black;
+    background-color: white;
+    clear: both;
+}
+
+nav {
+    float: left;
+    max-width: 200px;
+    margin: 0;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+
+.imgHolder {
+	text-align: justify;
+	width:	250 px;
+}
+.imgHolder img {
+	display: block;
+	margine: 0 auto;
+}
+u {
+    text-decoration: underline;
+}
+
+</style>
+<body>
+!!header!
+!!pwdr!
+<article>
+<img src="!htmlroot!/images/pwdr/MrPowderfaceCover.png" style="width:90%">
+<footer>
+	The text on this page is published under the <a href="../CC_BY_SA.html">
+	Creative Commons Attribution-ShareAlike 4.0</a> International license,
+	also denoted "CC BY-SA 4.0"
+</footer>
+</body>
+</html>

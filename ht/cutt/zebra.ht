@@ -1,0 +1,82 @@
+!htmlpath!	cutt/
+!htmlroot!	../
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Selections from the Life and Works of Robin Goodfellow, Musician, Artist, Educator</title>
+<style>
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+header {
+    padding: 1em;
+    color: black;
+    background-color: white;
+    clear: left;
+    text-align: center;
+}
+header, footer {
+    padding: 1em;
+    color: black;
+    background-color: white;
+    clear: both;
+}
+
+nav {
+    float: left;
+    max-width: 200px;
+    margin: 0;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+</style>
+<body>
+!!header!
+!!cutt!
+<div>
+	This is the image of the final zebra:<br>
+	<table>
+<tr><td width="100%"><img align="left" src="../images/cutt/zebra1.png"></td></tr>
+<tr><td width="100%"> <a href="../images/cutt/zebra1.png">download folded zebra png</a></td></tr>
+</table>
+</div>
+<div>
+	This is the image of the inner layer of the zebra:<br>
+<table>
+	<tr><td >raw scan</td><td>edited scan</td></tr>
+	<tr><td style="background-color:#00aa00"><img align="left" src="!htmlroot!images/cutt/zebra1inner.png"></td>
+		<td style="background-color:#00aa00"><img align="left" src="!htmlroot!images/cutt/zebra1inner2.png"></td></tr>
+	<tr><td> <a href="!htmlroot!images/cutt/zebra1inner.png">inner raw scan png</a></td>
+		<td> <a href="!htmlroot!images/cutt/zebra1inner2.png">inner edited scan png</a></td>
+	</tr>
+<tr><td style="background-color:#00aa00"><img align="left" src="!htmlroot!images/cutt/zebra1outer.png"></td>
+		<td style="background-color:#00aa00"><img align="left" src="!htmlroot!images/cutt/zebra1outer2.png"></td></tr>
+	<tr><td> <a href="!htmlroot!images/cutt/zebra1outer.png">outer raw scan png</a></td>
+		<td> <a href="!htmlroot!images/cutt/zebra1outer2.png">outer edited scan png</a></td>
+	</tr></table>
+</div>
+<footer>
+	The images on this page are published under the <a href="../CC_BY_SA.html">
+	Creative Commons Attribution-ShareAlike 4.0</a> International license,
+	also denoted "CC BY-SA 4.0"
+</footer>
+</body>
+</html>

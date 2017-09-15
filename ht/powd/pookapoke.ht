@@ -1,0 +1,102 @@
+!htmlpath!	powd/
+!htmlroot!	../
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Selections from the Life and Works of Robin Goodfellow, Musician, Artist, Educator</title>
+<style>
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+header {
+    padding: 1em;
+    color: black;
+    background-color: white;
+    clear: left;
+    text-align: center;
+}
+header, footer {
+    padding: 1em;
+    color: black;
+    background-color: white;
+    clear: both;
+}
+
+nav {
+    float: left;
+    max-width: 200px;
+    margin: 0;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+
+.imgHolder {
+	text-align: justify;
+	width:	250 px;
+}
+.imgHolder img {
+	display: block;
+	margine: 0 auto;
+}
+u {
+    text-decoration: underline;
+}
+
+</style>
+<body>
+<header>
+	In Memory of
+	<img src="!htmlroot!/images/bell horse lft.gif" width="84" height="84" style="float:left">
+	<img src="!htmlroot!/images/bell horse rgt.gif" width="84" height="84" style="float:right">
+	<h1 style="text-align:center">Robin Goodfellow</h1>
+	<h2 style="text-align:center">Musician, Artist, Educator, Performer, Designer, ...</h2>
+	<p style="text-align:center">1940-2017</p>
+</header>	
+!!pwdr!
+<img width="500" align="center" src="!htmlroot!images/robin/robin03.jpg">
+<article>
+	<h1>Mr. Powderface, Rascal Cat</h1>
+<h2>Pooka, Poke, Polka</h2>
+<h3>by Robin Goodfellow</h3>
+<p>Angela Belgrove was not a superstitious person.  She never looked up her horoscope and she did not believe in ghosts, fairies, will o' the wisps, hex symbols, walking under ladders, or throwing salt over her shoulder on the new moon.  She was a little dubious about black cats, but <u>that</u> was from experience, not superstition.</p>
+<p>There <u>were</u> some unexplained things happening, however.  Angela dropped a pencil.  She leaned down under the desk to retrieve it, didn't find it, went back to her desk and it was sitting on top.  She shook her head, and continued working.  The last newspaper had been sold when Angela tried to buy one.  The same paper was sitting on the kitchen table when she got home.  She went to look up information on an important case and her reference book openend to the right page.  Jason wanted some more milk.  She had emptied it earlier, but Jason picked up the carton and poured himself a glassful.  Agnela was feeling a bit strange.  She wondered if there was a reliable test for Altzheimers.  The back door banged open with a puff of wind and Angela shivered.  It closed again by itself.</p>
+<p>Eric was preparing his fifth graders for St. Patrick's day.  He had several books on Irish legends.  Agela's eyes fell on a book called "The Piper and the Pooka".  She read it and enjoyed the story of the horse-like, ghost-like, apparition that leads people into Fairyland and offers them gold and music, with only one of them lasting after the dawn of the next day.  The book said that having a Pooka in your house could be very good or very bad, depending.</p>
+<p>"Depending on what?" Angela wondered.  The book explained that if you have a beneficial Pooka, nice things will happen.  It also said that it was traditional to leave a bowl of milk on the back steps at sundown for the Little People, especially if you have a Pooka.</p>
+<p>Angela put out the milk.  The next day, she dropped her briefcase and papers flew in all directions.  She never did get them back and had to spend another three hours retyping them.  When she got home that night Jason was complaining that some of his toys were missing.  Eric stuck himself three times in the thumb trying to tie fishing lures.  Angela felt very strange.  Things had been going so well until she tried to follow what she understood to be the rules of gratitude.  Then everything turned bad.  Angela kept putting out bowls of mile, but the toast burnt, a teacup broke, several volumes of her reference set were missing, and she couldn't find her favorite pen.</p>
+<p>She had this recurring feeling that Mr. Powderface was somehow behind this.  She hid behind the kitchn door one evening and watched him.  He prowled aroudn the kitchen for a few minutes, them leapt up on the counter, over to a small window that was usually kept open, and jumped out.  Angela looked outside.  No cat.  She peeked throught the back kitchen door.  There was Mr. Powderface, drinking the milk she had set out!  She opened the door, startling Mr. Powderface and other, unseen beings.  They were battling Mr. Powderface, because his hair was raising up in little pufs, he twirled aroudn and around and it looked as though something was pulling his tail.</p>
+<p>The whirling cat and the unseen attackers entered the kitchen, banging into furniture, spilling things.</p>
+<p>"Help!" Angela shouted.  Eric and Jason ran in.  "What?" they said.  They saw the cat.  Jason whipped out his Pokemon.  "Jigglypuff, I choose <b><u>YOU</u>,</b> he said and the Jigglypuff sang the most exqusite lullaby.  The puffs of hair on Mr. Powderface's back lay down again.  He looked around, surprised, wondering where his enemies had gone.  Then the Jigglypuff was suddenly knocked over by an unseen opponent.  There was a tremendous battle.  The Pokemon was fighting the Pooka!  The fight stopped as suddently as it began.  Angela had started to play the recorder.  Both the Jigglypuff and the Pooka were very fond of music.  She played a Polka and they danced until they were exhausted.  For every piece of music that Angela played, the Jigglypuff gave her a star and teh Pooka gave her a shamrock.  Angela laid themcarefully on the mantle.  A fire was burning and everyone became warm and drowsy.</p>
+<p>That night, with the Jigglypuff and the Pooka softly snorign together by the fire, Angela took Mr. Powderface into the kitchen and had a talk with him.</p>
+<p>"You are responsible for the bad actions of the Pooka!" she accused him.  "If you drink one drop of the milk I put out for the Little People, I will have Jason send all of his Pokemon at you at once.  <u>And</u> I will also call all fo the Little People together to scare you out of your skin and at least eight of your lives!"</p>
+<p>Mr. Powderface had never been talked to like that, even by Angela when she was the most angry at him.  She was not angry now, being soothed by the fire and the music.  She was just telling him the results of his actions.  That absolutely terrified the cat.</p>
+<p>"I promise!" he said, not even bothering to say, "Bid deal," because he knew this really <u>was</u> a big deal.</p>
+<p>The Pooka liked Angela's music so much he decided to stay around, and the Little people came, also.  Now that they could trust that the milk supply was safely theirs, they continued the pleasant surprised.  Angela enjoyed what other people called very good luck.  She just smiled, thanked her lucky stars, and played music to her Pooka.</p>
+<p>After that, she, Mr. Powderface, Jason's
+ Pokemon, and the Pooka played Pooka, Poke, Polka every night until the next adventure.</p>
+<footer
+	<hr>
+	<p>This is an early Mr. Powderface story.  During this period the "magic" element was rather heavy, and there was a lot of effort into associating practicing the recorder with good things happening.</p>
+	<p>The text on this page is published under the <a href="../CC_BY_SA.html">
+	Creative Commons Attribution-ShareAlike 4.0</a> International license,
+	also denoted "CC BY-SA 4.0"</p>
+</footer>
+</body>
+</html>

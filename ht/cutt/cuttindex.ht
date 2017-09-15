@@ -1,0 +1,107 @@
+!htmlpath!	cutt/
+!htmlroot!	../
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Selections from the Life and Works of Robin Goodfellow, Musician, Artist, Educator</title>
+<style>
+div.container {
+    width: 100%;
+    border: 1px solid gray;
+}
+
+header {
+    padding: 1em;
+    color: black;
+    background-color: white;
+    clear: left;
+    text-align: center;
+}
+header, footer {
+    padding: 1em;
+    color: black;
+    background-color: white;
+    clear: both;
+}
+
+nav {
+    float: left;
+    max-width: 200px;
+    margin: 0;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+}
+
+.imgHolder {
+	text-align: justify;
+	width:	250 px;
+}
+.imgHolder img {
+	display: block;
+	margine: 0 auto;
+}
+</style>
+<body>
+!!header!
+!!cutt!
+<img height="300" align="center" src="!htmlroot!/images/robin/robin02.png">
+<article>
+<p>Much of Robin's work was done with multi-layer free-hand cutting.  Here
+are some samples, with construction details when possible.</p>
+<table>
+	<tr>
+		<td><a href="stPatDay.html">Saint Patrick's Day</a></td>
+		<td><a href="elephant.html">Elephant</a></td>
+		<td><a href="zebra.html">Zebra</a></td>
+		<td><a href="cow.html">Cow</a></td>
+		<td><a href="tiger.html">Tiger</a></td>
+	</tr>
+	<tr>
+		<td width="20%"><a href="stPatDay.html"><img width="100%" align="left" src="!htmlroot!images/cutt/StPatricksDay-c.svg"></a></td>
+		<td width="20%"><a href="elephant.html"><img width="100%" align="left" src="!htmlroot!images/cutt/elephant.png"></a></td>
+		<td width="20%"><a href="zebra.html"><img width="100%" align="left" src="!htmlroot!images/cutt/zebra1.png"></a></td>
+		<td width="20%"><a href="cow.html"><img width="100%" align="left" src="!htmlroot!images/cutt/cow.png"></a></td>
+		<td width="20%"><a href="tiger.html"><img width="100%" align="left" src="!htmlroot!images/cutt/tiger.png"></a></td>
+	</tr>
+</table>
+<p>The animals were an especially noteable innovation.  When properly folded they can stand up, though if left standing they legs tend to bend under the weight.  For stable display they should be supported inside the middle or hung over a wire.  But they also fold flat for storage.
+</p>
+<table>
+	<tr>
+		<td><a href="hippo.html">hippopatamus</a></td>
+		<td><a href="reindeer.html">reindeer</a></td>
+		<td><a href="zebra2.html">zebra 2</a></td>
+		<td><a href="horse-orange.html">orange horse</a></td>
+	</tr>
+	<tr>
+		<td width="20%"><a href="hippo.html"><img width="100%" align="left" src="!htmlroot!images/cutt/hippo.png"></a></td>
+		<td width="20%"><a href="reindeer.html"><img width="100%" align="left" src="!htmlroot!images/cutt/reindeer.png"></a></td>
+		<td width="20%"><a href="zebra2.html"><img width="100%" align="left" src="!htmlroot!images/cutt/zebra2.png"></a></td>
+		<td width="20%"><a href="horse-orange.html"><img width="100%" align="left" src="!htmlroot!images/cutt/horse-orange.png"></a></td>
+		<td width="20%"></td>
+	</tr>
+</table>
+</article>
+<footer>
+	The images on this page are published under the <a href="../CC_BY_SA.html">
+	Creative Commons Attribution-ShareAlike 4.0</a> International license,
+	also denoted "CC BY-SA 4.0"
+</footer>
+</body>
+</html>
