@@ -8,20 +8,26 @@
 <link rel="stylesheet" type="text/css" href="../css1.css">
 <body>
 !!header!	
-<img src="!htmlroot!images/robin/robin03.jpg">
-<p>Except where otherwise indicated, the pages, text, images, etc. of this document are
-	published under the <a href="../CC_BY_SA.html">Creative Commons Attribution-ShareAlike 4.0</a> International license,
-	also denoted "CC BY-SA 4.0"</p>
+<article>
+<figure>
+<img width="500" align="center" src="!htmlroot!images/robin/robin04.jpg">
+<figcaption>!!robcap04!</figcaption>
+</figure>
 !!mand!
 <img width="700" align="left" src="!htmlroot!images/3D-mandala-1-6up.svg">
 <a href="!htmlroot!/images/3D-mandala-1-6up.svg" download="3D-mandala-1-6up.svg">download 3D-mandala-1-6up.svg</a>
 Note that the displayed size probably does not match the size of the original.  Also note 
 that svg files can be rescaled without loss of detail, but unless height and width are
 changed proportionally the figure is altered.
+</article>
 <footer>
+	<p> </p>
+	<hr>
+	<p>
 	The images on this page are published under the <a href="../CC_BY_SA.html">
 	Creative Commons Attribution-ShareAlike 4.0</a> International license,
 	also denoted "CC BY-SA 4.0"
+	</p>
 </footer>
 </body>
 </html>
