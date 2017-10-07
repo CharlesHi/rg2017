@@ -1,0 +1,33 @@
+!htmlpath!	colo/
+!htmlroot!	../
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Selections from the Life and Works of Robin Goodfellow, Musician, Artist, Educator</title>
+!!css_styles!
+<body>
+!!header!
+<figure>
+<img class="Robin" height="300" align="center" src="!htmlroot!images/robin/robin26.jpg">
+<figcaption class="Robin">!!robcap26!</figcaption>
+</figure>
+!!colo!
+<article>
+	<p>One time Robin happened to get ahold of some legal sized card stock.  She never used legal size paper, as it didn't fit in any of her storage places, but this was free, and she didn't want to waste it, so she came up with this box design.  Unfortunately, the design on the surface was a bit degraded in processing.  You will be able to find better copies of it on this site under the description "StarFlower".  It was one of our favorite designs.</p>
+<table>
+	<tr>
+		<td> <a href="!htmlroot!images/coloring/yule-box1.jpg" download>download Yule Box 1 jpg</a></td>
+		<td> <a href="!htmlroot!images/coloring/yule-box2.jpg" download>download Yule Box 2 jpg</a></td></tr>
+	</tr>
+	<tr>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/coloring/yule-box1.jpg"></td>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/coloring/yule-box2.jpg"></td>
+	</tr>
+</table>
+<p>P.S.:  Where the design appears to have tags that aren't properly closed it was supposed to extend to the edge of the paper, but our printer wouldn't handle that.</p>
+<p>P.P.S.:  If you download the designs they should be scaled to legal size paper.  If they aren't, please let me know.</p>
+</article>
+!!footer-1!
+</body>
+</html>

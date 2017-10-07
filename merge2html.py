@@ -1,9 +1,11 @@
 
+import	datetime
 import	glob
-#import	pathlib
+import	os
 import	os.path
 import	re
 
+today	=	str(datetime.date.today())
 mlfile_ns	=	[]
 for ml in glob.glob ("./includes/*.ml", recursive = True):
 	mlfile_ns.append (ml)
@@ -24,11 +26,16 @@ for ml in mlfile_ns:
 for ht in glob.glob ("./ht/**", recursive = True):
 	if not ht.endswith(".ht"):
 		continue
+	n_ht	=	ht[4:]
+	n_html	=	"./html" + n_ht + "ml"
+	if os.path.exists(n_html):
+		htstat	=	os.stat(ht)
+		htmlstat	=	os.stat(n_html)
+		if htmlstat.st_mtime > htstat.st_mtime:
+			continue
 	print	("Processing: ", ht)
 	f	=	open(ht, "r", encoding="utf-8")
 	ftext	=	f.read().split("\n")
-	n_ht	=	ht[4:]
-	print (n_ht)
 	ndx	=	0
 	#collect the macros from the head of the file
 	macros	=	{"!htmlroot!" : "./", "!htmlpath!" : "./html/"}
@@ -57,14 +64,14 @@ for ht in glob.glob ("./ht/**", recursive = True):
 			print	(ftext)
 			exit	(94)
 	
-	print	("macros = ", repr(macros) )
+#	print	("macros = ", repr(macros) )
 	#	replace the macros
 	for k in macros.keys():
 		ftext	=	ftext.replace(k, macros[k])
-	print	(macros["!htmlpath!"])
-	print	(n_ht)
-#	n_html	=	"./html/" + macros["!htmlpath!"]+n_ht + "ml"
-	n_html	=	"./html" + n_ht + "ml"
+	ftext	=	ftext.replace("</footer>", "<p>Last updated: " + today + "</p>\r</footer>")
+#	print	(macros["!htmlpath!"])
+#	print	(n_ht)
+#	n_html	=	"./html" + n_ht + "ml"
 	print	("now writing: ", n_html)
 	fhtml	=	open(n_html, "w")
 	fhtml.write(ftext)

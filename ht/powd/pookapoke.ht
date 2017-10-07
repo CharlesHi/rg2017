@@ -5,76 +5,15 @@
 <head>
 <meta charset="UTF-8">
 <title>Selections from the Life and Works of Robin Goodfellow, Musician, Artist, Educator</title>
-<style>
-div.container {
-    width: 100%;
-    border: 1px solid gray;
-}
-
-header {
-    padding: 1em;
-    color: black;
-    background-color: white;
-    clear: left;
-    text-align: center;
-}
-header, footer {
-    padding: 1em;
-    color: black;
-    background-color: white;
-    clear: both;
-}
-
-nav {
-    float: left;
-    max-width: 200px;
-    margin: 0;
-    padding: 1em;
-}
-
-nav ul {
-    list-style-type: none;
-    padding: 0;
-}
-   
-nav ul a {
-    text-decoration: none;
-}
-
-article {
-    margin-left: 170px;
-    border-left: 1px solid gray;
-    padding: 1em;
-    overflow: hidden;
-}
-
-.imgHolder {
-	text-align: justify;
-	width:	250 px;
-}
-.imgHolder img {
-	display: block;
-	margine: 0 auto;
-}
-u {
-    text-decoration: underline;
-}
-
-</style>
+!!css_styles!
+!!header!
 <body>
-<header>
-	In Memory of
-	<img src="!htmlroot!images/bell horse lft.gif" width="84" height="84" style="float:left">
-	<img src="!htmlroot!images/bell horse rgt.gif" width="84" height="84" style="float:right">
-	<h1 style="text-align:center">Robin Goodfellow</h1>
-	<h2 style="text-align:center">Musician, Artist, Educator, Performer, Designer, ...</h2>
-	<p style="text-align:center">1940-2017</p>
-</header>	
 !!pwdr!
 <article>
+<p>	!htmlroot!images/robin/robin03.jpg</p>
 <figure>
-<img width="500" align="center" src="!htmlroot!images/robin/robin03.jpg">
-<figcaption>!!robcap03!</figcaption>
+<img class="Robin" height="300" src="!htmlroot!images/robin/robin03.jpg">
+<figcaption class="Robin">!!robcap03!</figcaption>
 </figure>
 	<h1>Mr. Powderface, Rascal Cat</h1>
 <h2>Pooka, Poke, Polka</h2>

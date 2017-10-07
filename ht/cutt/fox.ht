@@ -1,0 +1,45 @@
+!htmlpath!	cutt/
+!htmlroot!	../
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Selections from the Life and Works of Robin Goodfellow, Musician, Artist, Educator</title>
+!!css_styles!
+<body>
+!!header!
+<figure>
+<img class="Robin" height="300" align="center" src="!htmlroot!images/robin/robin20.jpg">
+<figcaption class="Robin">!!robcap20!</figcaption>
+</figure>
+!!cutt!
+<article>
+	<p>This fox came out so much smaller than the scan, but it <b>is</b> a small figure.  I enlarged the fox, but it had the cost of making the edges fuzzier.  I could sharpen them, but that would cause irreversible information loss.  If you need a small image, this is a better image to work from.</p>
+<div>
+	This is the image of the final fox:<br>
+	<table>
+<tr><td width="50%"><img class="halfRow" src="!htmlroot!images/cutt/fox-3d2.jpg"></td>
+	<td width="50%"><img class="halfRow" src="!htmlroot!images/cutt/fox.png"></td></tr>
+<tr><td width="50%"> <a href="!htmlroot!images/cutt/fox-3d2.jpg" download>download fox 3d jpg</a></td>
+	<td > <a href="!htmlroot!images/cutt/fox.png" download>download folded fox png</a></td></tr>
+</table>
+</div>
+<div>
+	This is the image of the inner layer of the fox:<br>
+<table>
+	<tr><td >raw scan</td><td width="50%">edited scan</td></tr>
+	<tr><td style="background-color:#00aa00"><img class="halfRow"src="!htmlroot!images/cutt/fox-inner.png"></td>
+		<td style="background-color:#00aa00"><img class="halfRow"src="!htmlroot!images/cutt/fox-inner2.png"></td></tr>
+	<tr><td width="50%"> <a href="!htmlroot!images/cutt/fox-inner.png" download>download inner raw scan png</a></td>
+		<td width="50%"> <a href="!htmlroot!images/cutt/fox-inner2.png" download>download inner edited scan png</a></td>
+	</tr>
+<tr><td style="background-color:#00aa00"><img class="halfRow"src="!htmlroot!images/cutt/fox-outer.png"></td>
+		<td style="background-color:#00aa00"><img class="halfRow"src="!htmlroot!images/cutt/fox-outer2.png"></td></tr>
+	<tr><td width="50%"> <a href="!htmlroot!images/cutt/fox-outer.png" download>download outer raw scan png</a></td>
+		<td width="50%"> <a href="!htmlroot!images/cutt/fox-outer2.png" download>download outer edited scan png</a></td>
+	</tr></table>
+</div>
+</article>
+!!footer-1!
+</body>
+</html>

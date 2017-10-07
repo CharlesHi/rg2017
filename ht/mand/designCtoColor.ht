@@ -1,0 +1,30 @@
+!htmlpath!	mand/
+!htmlroot!	../
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Selections from the Life and Works of Robin Goodfellow, Musician, Artist, Educator</title>
+!!css_styles!
+<body>
+!!header!	
+<figure>
+<img class="Robin" height="300" src="!htmlroot!images/robin/robin12.jpg">
+<figcaption class="Robin">!!robcap12!</figcaption>
+</figure>
+!!mand!
+<article>
+<p>This is the image that Robin called "mandala to color".  (She was rather poor at names.)  It is basically Design C enclosed in a frame, but the frame was an important part of the design.  This was frequently printed on a sheet of paper and given to children to color, then the ones they likes would be trimmed to the frame and the result pasted on something, perhaps a plain piece of card-stock (heavy paper).  Compare this with "Design C 12 up" which was probably done later.  That would have been used on, among other things, greeting cards.</p>
+<img align="left" width="100%" src="!htmlroot!images/mand/designC/mandala to color.png">
+</article>
+<footer>
+	<p> </p>
+	<hr>
+	<p>
+	The images on this page are published under the <a href="../CC_BY_SA.html">
+	Creative Commons Attribution-ShareAlike 4.0</a> International license,
+	also denoted "CC BY-SA 4.0"
+	</p>
+</footer>
+</body>
+</html>

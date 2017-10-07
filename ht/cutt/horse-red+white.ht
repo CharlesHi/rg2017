@@ -1,0 +1,46 @@
+!htmlpath!	cutt/
+!htmlroot!	../
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Selections from the Life and Works of Robin Goodfellow, Musician, Artist, Educator</title>
+!!css_styles!
+<body>
+!!header!
+<figure>
+<img class="Robin" height="300" align="center" src="!htmlroot!images/robin/robin22.jpg">
+<figcaption class="Robin">!!robcap22!</figcaption>
+</figure>
+!!cutt!
+<article>
+	<p>Horses were one of Robin's favorite animals to cut.  Here is an example of the way she cut a "pinto".  (My name for it...I never heard Robin name any particular example, only a "species".)</p>
+<div>
+	This is the image of the final red and white horse:<br>
+<table>
+<tr>	<td width="50%"><img class="halfRow" src="!htmlroot!images/cutt/horse-red+white-3d.jpg"></td>
+		<td width="50%"><img class="halfRow" src="!htmlroot!images/cutt/horse-red+white.png"></td></tr>
+<tr>	<td> <a href="!htmlroot!images/cutt/horse-red+white-3d.jpg" download>download 3-d horse-red+white jpg</a></td>
+		<td> <a href="!htmlroot!images/cutt/horse-red+white.png" download>download folded horse-red+white png</a></td></tr>
+</table>
+</div>
+<div>
+	This is the image of the inner layer of the horse:<br>
+<table>
+	<tr><td >raw scan</td><td>edited scan</td></tr>
+	<tr><td style="background-color:#00aa00" width="50%"><img class="halfRow" src="!htmlroot!images/cutt/horse-red+white-inner.png"></td>
+		<td style="background-color:#00aa00" width="50%"><img class="halfRow" src="!htmlroot!images/cutt/horse-red+white-inner2.png"></td></tr>
+	<tr><td> <a href="!htmlroot!images/cutt/horse-red+white-inner.png" download>download inner raw scan png</a></td>
+		<td> <a href="!htmlroot!images/cutt/horse-red+white-inner2.png"download>download inner edited scan png</a></td>
+	</tr>
+	<tr><td style="background-color:#00aa00" width="50%"><img class="halfRow" src="!htmlroot!images/cutt/horse-red+white-outer.png"></td>
+		<td style="background-color:#00aa00" width="50%"><img class="halfRow" src="!htmlroot!images/cutt/horse-red+white-outer2.png"></td></tr>
+	<tr><td> <a href="!htmlroot!images/cutt/horse-red+white-outer.png" download>download outer raw scan png</a></td>
+		<td> <a href="!htmlroot!images/cutt/horse-red+white-outer2.png" download>download outer edited scan png</a></td>
+	</tr>
+</table>
+</div>
+</article>
+!!footer-1!
+</body>
+</html>

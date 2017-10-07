@@ -5,81 +5,41 @@
 <head>
 <meta charset="UTF-8">
 <title>Selections from the Life and Works of Robin Goodfellow, Musician, Artist, Educator</title>
-<style>
-div.container {
-    width: 100%;
-    border: 1px solid gray;
-}
-
-header {
-    padding: 1em;
-    color: black;
-    background-color: white;
-    clear: left;
-    text-align: center;
-}
-header, footer {
-    padding: 1em;
-    color: black;
-    background-color: white;
-    clear: both;
-}
-
-nav {
-    float: left;
-    max-width: 200px;
-    margin: 0;
-    padding: 1em;
-}
-
-nav ul {
-    list-style-type: none;
-    padding: 0;
-}
-   
-nav ul a {
-    text-decoration: none;
-}
-
-article {
-    margin-left: 170px;
-    border-left: 1px solid gray;
-    padding: 1em;
-    overflow: hidden;
-}
-</style>
+!!css_styles!
 <body>
 !!header!
+<figure>
+<img class="Robin" height="300" align="center" src="!htmlroot!images/robin/robin13.jpg">
+<figcaption class="Robin">!!robcap13!</figcaption>
+</figure>
 !!cutt!
 <article>
 	<p>Horses were one the most common animals that Robin cut, arguably her favorite one.  Orange, though, was an unusual color for her to choose.  Notice that as well as using scissors, she also used special hand punches which she collected in various designs specifically for this purpose.</p>
 <div>
 	This is the image of the final horse:<br>
-	<table>
-<tr><td width="100%"><img align="left" src="../images/cutt/horse-orange.png"></td></tr>
-<tr><td width="100%"> <a href="../images/cutt/horse-orange.png">download folded zebra png</a></td></tr>
+<table>
+<tr>	<td width="50%"><img class="halfRow"  src="!htmlroot!images/cutt/horse-orange-3d.jpg"></td>
+		<td width="50%"><img class="halfRow"  src="!htmlroot!images/cutt/horse-orange.png"></td></tr>
+<tr>	<td width="50%"> <a href="!htmlroot!images/cutt/horse-orange-3d.jpg" download>download 3-d horse jpg</a></td>
+		<td width="50%"> <a href="!htmlroot!images/cutt/horse-orange.png" download>download folded horse png</a></td></tr>
 </table>
 </div>
 <div>
 	This is the image of the inner and outer layers of the horse:<br>
 <table>
-	<tr><td >raw scan</td><td>edited scan</td></tr>
-	<tr><td style="background-color:#00aa00"><img align="left" src="!htmlroot!images/cutt/horse-orange-inner.png"></td>
-		<td style="background-color:#00aa00"><img align="left" src="!htmlroot!images/cutt/horse-orange-inner2.png"></td></tr>
-	<tr><td> <a href="!htmlroot!images/cutt/horse-orange-inner.png">inner raw scan png</a></td>
-		<td> <a href="!htmlroot!images/cutt/horse-orange-inner2.png">inner edited scan png</a></td>
+	<tr><td >raw scan</td><td width="50%">edited scan</td></tr>
+	<tr><td style="background-color:#00aa00"><img class="halfRow"  src="!htmlroot!images/cutt/horse-orange-inner.png"></td>
+		<td style="background-color:#00aa00"><img class="halfRow"  src="!htmlroot!images/cutt/horse-orange-inner2.png"></td></tr>
+	<tr><td width="50%"> <a href="!htmlroot!images/cutt/horse-orange-inner.png" download>download inner raw scan png</a></td>
+		<td width="50%"> <a href="!htmlroot!images/cutt/horse-orange-inner2.png" download>download inner edited scan png</a></td>
 	</tr>
-<tr><td style="background-color:#00aa00"><img align="left" src="!htmlroot!images/cutt/horse-orange-outer.png"></td>
-		<td style="background-color:#00aa00"><img align="left" src="!htmlroot!images/cutt/horse-orange-outer2.png"></td></tr>
-	<tr><td> <a href="!htmlroot!images/cutt/horse-orange-outer.png">outer raw scan png</a></td>
-		<td> <a href="!htmlroot!images/cutt/horse-orange-outer2.png">outer edited scan png</a></td>
+<tr><td style="background-color:#00aa00"><img class="halfRow"  src="!htmlroot!images/cutt/horse-orange-outer.png"></td>
+		<td style="background-color:#00aa00"><img class="halfRow"  src="!htmlroot!images/cutt/horse-orange-outer2.png"></td></tr>
+	<tr><td width="50%"> <a href="!htmlroot!images/cutt/horse-orange-outer.png" download>download outer raw scan png</a></td>
+		<td width="50%"> <a href="!htmlroot!images/cutt/horse-orange-outer2.png" download>download outer edited scan png</a></td>
 	</tr></table>
 </div>
 </article>
-<footer>
-	The images on this page are published under the <a href="../CC_BY_SA.html">
-	Creative Commons Attribution-ShareAlike 4.0</a> International license,
-	also denoted "CC BY-SA 4.0"
-</footer>
+!!footer-1!
 </body>
 </html>

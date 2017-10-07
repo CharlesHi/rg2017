@@ -1,0 +1,32 @@
+!htmlpath!	cutt/
+!htmlroot!	../
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Selections from the Life and Works of Robin Goodfellow, Musician, Artist, Educator</title>
+!!css_styles!
+<body>
+!!header!
+<figure>
+<img class="Robin" height="300" align="center" src="!htmlroot!images/robin/robin24.jpg">
+<figcaption class="Robin">!!robcap24!</figcaption>
+</figure>
+!!cutt!
+<article>
+	<p>When Robin wanted to do something a bit extended, she would sometimes cut a carousel.  These were varied in nature, but required a particular collection of plastic straws that would properly nest, as well as lots of time, and a good working place.</p>
+<div>
+	These images of a couple of the the final carousels:<br>
+	The first one used an unusually large number of colors and is in other ways more elaborate than her usual models.  This one was probably several decades old when the picture was taken.<br>
+<img class="halfRow" src="!htmlroot!images/cutt/carousel1.jpg"></td><br>
+There are two images of this second one.  Robin had a preference for red and white because of the good contrast and the eye-catching colors.  Note that alternate horses have their colors reversed.  I'm not certain, but I believe the appearance of pink paper in the photos is an illusion caused by light reflected off of red paper and onto white paper.
+<table>
+<tr>	<td><img class="halfRow" src="!htmlroot!images/cutt/carousel2a.jpg"></td>
+		<td><img class="halfRow" src="!htmlroot!images/cutt/carousel2b.jpg"></td></tr>
+</table>
+</div>
+<div>
+</article>
+!!footer-1!
+</body>
+</html>

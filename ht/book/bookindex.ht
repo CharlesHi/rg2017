@@ -1,0 +1,44 @@
+!htmlpath!	book/
+!htmlroot!	../
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Selections from the Life and Works of Robin Goodfellow, Musician, Artist, Educator</title>
+!!css_styles!
+<body>
+!!header!
+<figure>
+<img class="Robin" height="300" src="!htmlroot!images/robin/robin28.jpg">
+<figcaption class="Robin">!!robcap28!</figcaption>
+</figure>
+<p class="rgt">	<a id="top"></a>
+	<ul class="rgt">
+		<li><a href="#projects">Project Booklets</a></li>
+	</ul>
+</p>
+!!book!
+<article>
+<p>The items under this page booklets created by Robin.  (She always called them books.)  Some are how to booklets for projects she designed, some are informative, e.g. describing the classification of musical instruments, and some are story telling.</p>
+<h3><a id="projects">Project Booklets</a></h3>
+<p class="rgt"><a href="#top">Top</a></p>
+<table>	<tr>
+		<td><a href="what.html">Where did you get that hat?</a></td>
+		<td><a href="howt.html">How to dress a teddy bear</a></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td width="20%"><a href="what.html"><img width="100%" align="left" src="!htmlroot!images/book/where_did_you_get_that_hat/Pg00-front cover.png"></a></td>
+		<td width="20%"><a href="howt.html"><img width="100%" align="left" src="!htmlroot!images/book/how_to_dress_a_teddy_bear.png"</td>
+		<td width="20%"></td>
+		<td width="20%"></td>
+		<td width="20%"></td>
+	</tr>
+</table>
+</article>
+<p class="rgt"><a href="#top">Top</a></p>
+!!footer-1!
+</body>
+</html>

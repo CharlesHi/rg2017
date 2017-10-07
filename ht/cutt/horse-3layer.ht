@@ -1,0 +1,31 @@
+!htmlpath!	cutt/
+!htmlroot!	../
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Selections from the Life and Works of Robin Goodfellow, Musician, Artist, Educator</title>
+!!css_styles!
+<body>
+!!header!
+<figure>
+<img class="Robin" height="300" align="center" src="!htmlroot!images/robin/robin21.jpg">
+<figcaption class="Robin">!!robcap21!</figcaption>
+</figure>
+!!cutt!
+<article>
+	<p>This was an experimental horse done in three layers of paper (with foil as the inner one).  It was effective, but had problems as the layers needed to be done with a thinner paper to allow the outlines to be cut simultaneously, and this resulted in a weaker construction.  In this particular one the outer layer was done with a weak paper, so had little structural strength.  Despite the interesting effects possible, Robin decided that this wasn't worth much further work.</p>
+<div>
+	This is the image of the final 3 layer horse:<br>
+	<table>
+<tr><td width="50%"><img class="halfRow" src="!htmlroot!images/cutt/horse-3layer3d.jpg"></td>
+	<td width="50%"><img class="halfRow" src="!htmlroot!images/cutt/horse-3layer.png"></td></tr>
+<tr><td width="50%"> <a href="!htmlroot!images/cutt/horse-3layer3d.jpg" download>download 3 layer horse 3d jpg</a></td>
+	<td > <a href="!htmlroot!images/cutt/horse-3layer.png" download>download folded 3 layer horse png</a></td></tr>
+</table>
+</div>
+<p>I don't intend to disassemble and reconstruct this horse, as the paper is a bit fragile, and it would reveal no new principles.  This was a relatively early piece as later Robin formalized the interior cutting of patterns so that only unicorns would have a decorative motif cut into their outer layer.  Except, of course, when she changed her mind, which she was apt to do if requested.</p>
+</article>
+!!footer-1!
+</body>
+</html>

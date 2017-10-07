@@ -1,0 +1,31 @@
+!htmlpath!	mand/
+!htmlroot!	../
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Selections from the Life and Works of Robin Goodfellow, Musician, Artist, Educator</title>
+link rel="stylesheet" type="text/css" href="../css1.css">
+!!css_styles!
+<body>
+!!header!	
+<figure>
+<img class="Robin" height="300" src="!htmlroot!images/robin/robin05.png">
+<figcaption class="Robin">!!robcap05!</figcaption>
+</figure>
+!!mand!
+<article>
+<p>This is the basic image that Robin called "Design C".  It was created before 1990.</p>
+<img align="left" width="100%" src="!htmlroot!images/mand/designC/design C.png">
+</article>
+<footer>
+	<p> </p>
+	<hr>
+	<p>
+	The images on this page are published under the <a href="../CC_BY_SA.html">
+	Creative Commons Attribution-ShareAlike 4.0</a> International license,
+	also denoted "CC BY-SA 4.0"
+	</p>
+</footer>
+</body>
+</html>

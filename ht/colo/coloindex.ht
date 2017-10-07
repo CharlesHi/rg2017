@@ -1,0 +1,44 @@
+!htmlpath!	colo/
+!htmlroot!	../
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Selections from the Life and Works of Robin Goodfellow, Musician, Artist, Educator</title>
+!!css_styles!
+<body>
+!!header!
+<figure>
+<img class="Robin" height="300" src="!htmlroot!images/robin/robin27.jpg">
+<figcaption class="Robin">!!robcap27!</figcaption>
+</figure>
+<p class="rgt">	<a id="top"></a>
+	<ul class="rgt">
+		<li><a href="#Boxes">Boxes</a></li>
+	</ul>
+</p>
+!!colo!
+<article>
+<p>The items under this page were designs that were intended to be colored.  There are often samples offered on which colors have already been placed.</p>
+<h3><a id="Boxes">Boxes</a></h3>
+<p class="rgt"><a href="#top">Top</a></p>
+<table>	<tr>
+		<td><a href="yulebox.html">Yule Boxes</a></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td width="20%"><a href="yulebox.html"><img width="100%" align="left" src="!htmlroot!images/coloring/yule-box1.jpg"></a></td>
+		<td width="20%"></td>
+		<td width="20%"></td>
+		<td width="20%"></td>
+		<td width="20%"></td>
+	</tr>
+</table>
+</article>
+<p class="rgt"><a href="#top">Top</a></p>
+!!footer-1!
+</body>
+</html>

@@ -5,75 +5,34 @@
 <head>
 <meta charset="UTF-8">
 <title>Selections from the Life and Works of Robin Goodfellow, Musician, Artist, Educator</title>
-<style>
-div.container {
-    width: 100%;
-    border: 1px solid gray;
-}
-
-header {
-    padding: 1em;
-    color: black;
-    background-color: white;
-    clear: left;
-    text-align: center;
-}
-header, footer {
-    padding: 1em;
-    color: black;
-    background-color: white;
-    clear: both;
-}
-
-nav {
-    float: left;
-    max-width: 200px;
-    margin: 0;
-    padding: 1em;
-}
-
-nav ul {
-    list-style-type: none;
-    padding: 0;
-}
-   
-nav ul a {
-    text-decoration: none;
-}
-
-article {
-    margin-left: 170px;
-    border-left: 1px solid gray;
-    padding: 1em;
-    overflow: hidden;
-}
-
-.imgHolder {
-	text-align: justify;
-	width:	250 px;
-}
-.imgHolder img {
-	display: block;
-	margine: 0 auto;
-}
-</style>
+!!css_styles!
 <body>
 !!header!
+<figure>
+<img class="Robin" height="300" src="!htmlroot!images/robin/robin02.png">
+<figcaption class="Robin">!!robcap02!</figcaption>
+</figure>
+<p class="rgt">	<a id="top"></a>
+	<ul class="rgt">
+		<li><a href="#theAnimals">TheAnimals</a></li>
+		<li><a href="#otherWorks">Other Cut Paper Works</a></li>
+	</ul>
+</p>
 !!cutt!
-<img height="300" align="center" src="!htmlroot!/images/robin/robin02.png">
 <article>
 <p>Much of Robin's work was done with multi-layer free-hand cutting.  Here
 are some samples, with construction details when possible.</p>
-<table>
+<h3><a id="theAnimals">The Animals</a></h3><table>
+<p class="rgt"><a href="#top">Top</a></p>
 	<tr>
-		<td><a href="stPatDay.html">Saint Patrick's Day</a></td>
+		<td><a href="horse-red+white.html">Red and White Horse</a></td>
 		<td><a href="elephant.html">Elephant</a></td>
 		<td><a href="zebra.html">Zebra</a></td>
 		<td><a href="cow.html">Cow</a></td>
 		<td><a href="tiger.html">Tiger</a></td>
 	</tr>
 	<tr>
-		<td width="20%"><a href="stPatDay.html"><img width="100%" align="left" src="!htmlroot!images/cutt/StPatricksDay-c.svg"></a></td>
+		<td width="20%"><a href="horse-red+white.html"><img width="100%" align="left" src="!htmlroot!images/cutt/horse-red+white.png"></a></td>
 		<td width="20%"><a href="elephant.html"><img width="100%" align="left" src="!htmlroot!images/cutt/elephant.png"></a></td>
 		<td width="20%"><a href="zebra.html"><img width="100%" align="left" src="!htmlroot!images/cutt/zebra1.png"></a></td>
 		<td width="20%"><a href="cow.html"><img width="100%" align="left" src="!htmlroot!images/cutt/cow.png"></a></td>
@@ -88,20 +47,52 @@ are some samples, with construction details when possible.</p>
 		<td><a href="reindeer.html">reindeer</a></td>
 		<td><a href="zebra2.html">zebra 2</a></td>
 		<td><a href="horse-orange.html">orange horse</a></td>
+		<td><a href="fox.html">fox</a></td>
 	</tr>
 	<tr>
 		<td width="20%"><a href="hippo.html"><img width="100%" align="left" src="!htmlroot!images/cutt/hippo.png"></a></td>
 		<td width="20%"><a href="reindeer.html"><img width="100%" align="left" src="!htmlroot!images/cutt/reindeer.png"></a></td>
 		<td width="20%"><a href="zebra2.html"><img width="100%" align="left" src="!htmlroot!images/cutt/zebra2.png"></a></td>
 		<td width="20%"><a href="horse-orange.html"><img width="100%" align="left" src="!htmlroot!images/cutt/horse-orange.png"></a></td>
+		<td width="20%"><a hred="fox.html"><img width="100%" align="left" src="!htmlroot!images/cutt/fox.png"</a></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<td><a href="horse-3layer.html">3 layer horse</a></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td width="20%"><a href="horse-3layer.html"><img width="100%" align="left" src="!htmlroot!images/cutt/horse-3layer.png"></a></td>
+		<td width="20%"></td>
+		<td width="20%"></td>
+		<td width="20%"></td>
+		<td width="20%"></td>
+	</tr>
+</table>
+<h3><a id="otherWorks">Other Cut Paper Works</a></h3>
+<p class="rgt"><a href="#top">Top</a></p>
+<table>
+	<tr>
+		<td><a href="stPatDay.html">Saint Patrick's Day</a></td>
+		<td><a href="heart1.html">Heart Cutting</a></td>
+		<td><a href="unicorn1.html">Unicorn...unusual</a></td>
+		<td><a href="carousels.html">Carousels</a></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td width="20%"><a href="stPatDay.html"><img width="100%" align="left" src="!htmlroot!images/cutt/StPatricksDay-c.svg"></a></td>
+		<td width="20%"><a href="heart1.html"><img width="100%" align="left" src="!htmlroot!images/cutt/heart1.png"></a></td>
+		<td width="20%"><a href="unicorn1.html"><img width="100%" align="left" src="!htmlroot!images/cutt/unicorn1.png"></a></td>
+		<td width="20%"><a href="carousels.html"><img width="100%" align="left" src="!htmlroot!images/cutt/carousel2a.jpg"></a></td>
 		<td width="20%"></td>
 	</tr>
 </table>
 </article>
-<footer>
-	The images on this page are published under the <a href="../CC_BY_SA.html">
-	Creative Commons Attribution-ShareAlike 4.0</a> International license,
-	also denoted "CC BY-SA 4.0"
-</footer>
+<p class="rgt"><a href="#top">Top</a></p>
+!!footer-1!
 </body>
 </html>

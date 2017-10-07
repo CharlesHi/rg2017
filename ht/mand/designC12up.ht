@@ -1,0 +1,30 @@
+!htmlpath!	mand/
+!htmlroot!	../
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Selections from the Life and Works of Robin Goodfellow, Musician, Artist, Educator</title>
+!!css_styles!
+<body>
+!!header!	
+<figure>
+<img class="Robin" height="300" src="!htmlroot!images/robin/robin11.jpg">
+<figcaption class="Robin">!!robcap11!</figcaption>
+</figure>
+!!mand!
+<article>
+<p>This is the version of the design that Robin called "mandala 12 up".  The box is an indication that it was intended that after being colored the design would be cut out for use on a card or decoration.</p>
+<img align="left" width="100%" src="!htmlroot!images/mand/designC/mandala 12 up.png">
+</article>
+<footer>
+	<p> </p>
+	<hr>
+	<p>
+	The images on this page are published under the <a href="../CC_BY_SA.html">
+	Creative Commons Attribution-ShareAlike 4.0</a> International license,
+	also denoted "CC BY-SA 4.0"
+	</p>
+</footer>
+</body>
+</html>

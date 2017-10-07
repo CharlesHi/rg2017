@@ -1,0 +1,90 @@
+!htmlpath!	cutt/
+!htmlroot!	../
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Selections from the Life and Works of Robin Goodfellow, Musician, Artist, Educator</title>
+!!css_styles!
+<body>
+!!header!
+<figure>
+<img class="Robin" height="300" align="center" src="!htmlroot!images/robin/robin29.jpg">
+<figcaption class="Robin">!!robcap29!</figcaption>
+</figure>
+!!book!
+<article>
+	<h2>Where did you get that hat?</h2>
+<div>
+	This the booklet, with downloadable images of the pages.  Sample hats are shown at after the booklet.<br>
+<table>
+<tr>	<td width="33%"><img class="halfRow" src="!htmlroot!images/book/where_did_you_get_that_hat/Pg00-front cover.png"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/where_did_you_get_that_hat/Pg01-blank.png"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/where_did_you_get_that_hat/Pg02.png"></td></tr>
+<tr>	<td> <a href="!htmlroot!images/book/where_did_you_get_that_hat/Pg00-front cover.png" download>download the cover (page 0)</a></td>
+		<td> <a href="!htmlroot!images/book/where_did_you_get_that_hat/Pg01-blank.png" download>download a blank page 1</a></td>
+		<td> <a href="!htmlroot!images/book/where_did_you_get_that_hat/Pg02.png" download>download page 2</a></td>
+		</tr>
+<tr>	<td width="33%"><img class="halfRow" src="!htmlroot!images/book/where_did_you_get_that_hat/Pg03.png"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/where_did_you_get_that_hat/Pg04.png"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/where_did_you_get_that_hat/Pg05.png"></td></tr>
+<tr>	<td> <a href="!htmlroot!images/book/where_did_you_get_that_hat/Pg03.png" download>download page 3</a></td>
+		<td> <a href="!htmlroot!images/book/where_did_you_get_that_hat/Pg04.png" download>download page 4</a></td>
+		<td> <a href="!htmlroot!images/book/where_did_you_get_that_hat/Pg05.png" download>download page 5</a></td>
+		</tr>
+<tr>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/where_did_you_get_that_hat/Pg06.png"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/where_did_you_get_that_hat/Pg07.png"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/where_did_you_get_that_hat/Pg08.png"></td></tr>
+<tr>	<td> <a href="!htmlroot!images/book/where_did_you_get_that_hat/Pg06.png" download>download page 6</a></td>
+		<td> <a href="!htmlroot!images/book/where_did_you_get_that_hat/Pg07.png" download>download page 7</a></td>
+		<td> <a href="!htmlroot!images/book/where_did_you_get_that_hat/Pg08.png" download>download page 8</a></td>
+		</tr>
+<tr>
+		<td width="33%">Pages 10 and 11 are a pocket made from a single folded sheet of card stock.  They are used to hold paper pieces that can be used in this project.</td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/where_did_you_get_that_hat/Pg12-blank.png"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/where_did_you_get_that_hat/Pg13-back cover.png"></td></tr>
+<tr>	<td>Design your own pocket pages. </td>
+		<td> <a href="!htmlroot!images/book/where_did_you_get_that_hat/Pg12-blank.png" download>download blank page 12</a></td>
+		<td> <a href="!htmlroot!images/book/where_did_you_get_that_hat/Pg13-back cover.png" download>download back cover page 13</a></td>
+		</tr>
+</table>
+</div>
+<br><hr><br>
+<div>
+	Here are a bunch of sample hats:<br>
+<table>
+<tr>	
+	<td width="20%"><img class="halfRow" src="!htmlroot!images/book/where_did_you_get_that_hat/hat01.png"></td>
+	<td width="20%"><img class="halfRow" src="!htmlroot!images/book/where_did_you_get_that_hat/hat02.png"></td>
+	<td width="20%"><img class="halfRow" src="!htmlroot!images/book/where_did_you_get_that_hat/hat03.png"></td>
+	<td width="20%"><img class="halfRow" src="!htmlroot!images/book/where_did_you_get_that_hat/hat04.png"></td>
+	<td width="20%"><img class="halfRow" src="!htmlroot!images/book/where_did_you_get_that_hat/hat05.png"></td>
+</tr>
+<tr>	
+	<td width="20%"><img class="halfRow" src="!htmlroot!images/book/where_did_you_get_that_hat/hat06.png"></td>
+	<td width="20%"><img class="halfRow" src="!htmlroot!images/book/where_did_you_get_that_hat/hat07.png"></td>
+	<td width="20%"><img class="halfRow" src="!htmlroot!images/book/where_did_you_get_that_hat/hat08.png"></td>
+	<td width="20%"><img class="halfRow" src="!htmlroot!images/book/where_did_you_get_that_hat/hat09.png"></td>
+	<td width="20%"><img class="halfRow" src="!htmlroot!images/book/where_did_you_get_that_hat/hat10.png"></td>
+</tr>
+<tr>	
+	<td width="20%"><img class="halfRow" src="!htmlroot!images/book/where_did_you_get_that_hat/hat11.png"></td>
+	<td width="20%"><img class="halfRow" src="!htmlroot!images/book/where_did_you_get_that_hat/hat12.png"></td>
+	<td width="20%"><img class="halfRow" src="!htmlroot!images/book/where_did_you_get_that_hat/hat13.png"></td>
+	<td width="20%"><img class="halfRow" src="!htmlroot!images/book/where_did_you_get_that_hat/hat14.png"></td>
+	<td width="20%"><img class="halfRow" src="!htmlroot!images/book/where_did_you_get_that_hat/hat15.png"></td>
+</tr>
+<tr>	
+	<td width="20%"><img class="halfRow" src="!htmlroot!images/book/where_did_you_get_that_hat/hat16.png"></td>
+	<td width="20%"><img class="halfRow" src="!htmlroot!images/book/where_did_you_get_that_hat/hat17.png"></td>
+	<td width="20%"><img class="halfRow" src="!htmlroot!images/book/where_did_you_get_that_hat/hat18.png"></td>
+	<td width="20%"><img class="halfRow" src="!htmlroot!images/book/where_did_you_get_that_hat/hat19.png"></td>
+	<td width="20%"><img class="halfRow" src="!htmlroot!images/book/where_did_you_get_that_hat/hat20.png"></td>
+</tr>
+	</table>
+</div>
+</article>
+!!footer-1!
+</body>
+</html>

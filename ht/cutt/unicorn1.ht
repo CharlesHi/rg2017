@@ -1,0 +1,23 @@
+!htmlpath!	cutt/
+!htmlroot!	../
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Selections from the Life and Works of Robin Goodfellow, Musician, Artist, Educator</title>
+!!css_styles!
+<body>
+!!header!
+<figure>
+
+<img class="Robin" height="300" align="center" src="!htmlroot!images/robin/robin25.jpg">
+<figcaption class="Robin">!!robcap25!</figcaption>
+</figure>
+!!cutt!
+<article>
+	<p>This is an extremely untypical piece of work. I didn't include it among "The Animals" because the style Just doesn't fit.  It's more similar to the flat cuttings that she did, but even there it lacks the axis of symmetry that is usually present.  Perhaps it was originally developed to use as a silk-screen design, but even for those Robin usually had a prominent axis of symmetry.  Also it appears to be more created as a drawing with brush and ink than as cut paper, as I didn't see the texture of the original paper even with the copy I first worked from.  If someone asserted the original was cut from a very find black velvet, and I was working from a reduced image, I wouldn't deny it.  If the edges weren't so smooth I'd say it was a block print made from a wax block.</p>
+	<p>If anyone knows the history of this image, please let me know.</p><img class="halfRow" src="!htmlroot!images/cutt/unicorn1.png">
+</article>
+!!footer-1!
+</body>
+</html>

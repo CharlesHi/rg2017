@@ -1,0 +1,34 @@
+!htmlpath!	mand/
+!htmlroot!	../
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Selections from the Life and Works of Robin Goodfellow, Musician, Artist, Educator</title>
+!!css_styles!
+<body>
+!!header!	
+<figure>
+<img class="Robin" height="300" src="!htmlroot!images/robin/robin10.jpg">
+<figcaption class="Robin">!!robcap10!</figcaption>
+</figure>
+<article>
+!!mand!
+<p>Robin called these 3-D mandalas, but that's a bit misleading.  There were some glasses issued by Crayola at one time that would cause certain colors to appear to come forwards and other colors to appear to retreat.  These were more noticable when used with high contrast areas, and these mandalas were designed to take advantage of that.  They aren't intended to be folded to produce actual 3-D mandalas, in fact it's not clear what that would mean except possibly a mandala inscribed on the surface of a sphere.  That said, they can be colored quite attractively even without the special glasses.</p>
+<img width="700" align="left" src="!htmlroot!images/mand/3D-mandala-1-6up.svg">
+<a href="!htmlroot!/images/mand/3D-mandala-1-6up.svg" download="3D-mandala-1-6up.svg">download 3D-mandala-1-6up.svg</a>
+Note that the displayed size probably does not match the size of the original.  Also note 
+that svg files can be rescaled without loss of detail, but unless height and width are
+changed proportionally the figure is altered.
+</article>
+<footer>
+	<p> </p>
+	<hr>
+	<p>
+	The images on this page are published under the <a href="../CC_BY_SA.html">
+	Creative Commons Attribution-ShareAlike 4.0</a> International license,
+	also denoted "CC BY-SA 4.0"
+	</p>
+</footer>
+</body>
+</html>

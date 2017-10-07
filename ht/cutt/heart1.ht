@@ -1,0 +1,23 @@
+!htmlpath!	cutt/
+!htmlroot!	../
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Selections from the Life and Works of Robin Goodfellow, Musician, Artist, Educator</title>
+!!css_styles!
+<body>
+!!header!
+<figure>
+<img class="Robin" height="300" align="center" src="!htmlroot!images/robin/robin26.jpg">
+<figcaption class="Robin">!!robcap26!</figcaption>
+</figure>
+!!cutt!
+<article>
+	<p>One of the things Robin would do was customized cutting for people. When doing these she liked to be talking to the person she was doing them for while doing the cutting, so that she could incorporate images of things that they liked into the cutting.  Many of these were square or rectangular, but Robin often preferred to work a Valentine's heart into the image.  That and unicorns were prominent themes in much of her work.</p>
+	<img class="halfRow" src="!htmlroot!images/cutt/heart1.png">
+<div>
+</article>
+!!footer-1!
+</body>
+</html>

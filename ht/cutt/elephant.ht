@@ -5,60 +5,24 @@
 <head>
 <meta charset="UTF-8">
 <title>Selections from the Life and Works of Robin Goodfellow, Musician, Artist, Educator</title>
-<style>
-div.container {
-    width: 100%;
-    border: 1px solid gray;
-}
-
-header {
-    padding: 1em;
-    color: black;
-    background-color: white;
-    clear: left;
-    text-align: center;
-}
-header, footer {
-    padding: 1em;
-    color: black;
-    background-color: white;
-    clear: both;
-}
-
-nav {
-    float: left;
-    max-width: 200px;
-    margin: 0;
-    padding: 1em;
-}
-
-nav ul {
-    list-style-type: none;
-    padding: 0;
-}
-   
-nav ul a {
-    text-decoration: none;
-}
-
-article {
-    margin-left: 170px;
-    border-left: 1px solid gray;
-    padding: 1em;
-    overflow: hidden;
-}
-</style>
+!!css_styles!
 <body>
 !!header!
+<figure>
+<img class="Robin" height="300" align="center" src="!htmlroot!images/robin/robin16.jpg">
+<figcaption class="Robin">!!robcap16!</figcaption>
+</figure>
 !!cutt!
-<img width="700" align="left" src="!htmlroot!images/cutt/elephant.png">
-<a href="!htmlroot!images/cutt/elephant.png">download folded elephant png</a>
+<article>
+<table>
+<tr>	<td width="50%"><img class="halfRow" src="../images/cutt/elephant-3d.jpg"></td>
+		<td width="50%"><img class="halfRow" src="../images/cutt/elephant.png"></td></tr>
+<tr>	<td width="50%"> <a href="../images/cutt/elephant-3d.jpg" download>download 3-d elephant jpg</a></td>
+		<td width="50%"> <a href="../images/cutt/elephant.png" download>download folded elephant png</a></td></tr>
+</table>
 The elephant is a two layer construction, but is glued at the top of the trunk,
 so it could not be displayed splayed out to reveal the details of construction.
-<footer>
-	The images on this page are published under the <a href="../CC_BY_SA.html">
-	Creative Commons Attribution-ShareAlike 4.0</a> International license,
-	also denoted "CC BY-SA 4.0"
-</footer>
+</article>
+!!footer-1!
 </body>
 </html>
