@@ -6,3 +6,4 @@
 	<h2 style="text-align:center">Musician, Artist, Educator, Performer, Designer, ...</h2>
 	<p style="text-align:center">1940-2017</p>
 </header>	
+<a href="#ndx">Index</a>
