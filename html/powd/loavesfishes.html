@@ -25,7 +25,7 @@ header, footer {
 
 nav {
     float: left;
-    max-width: 200px;
+    max-width: 175px;
     margin: 0;
     padding: 1em;
 }
@@ -59,13 +59,24 @@ img.Robin {
 	margin-left: auto;
 	margin-right: auto;
 }
+img.halfRow
+{	display: block;
+	max-width: 100%;
+}
 figcaption.Robin {
-	text-align: center;	
+	text-align: center;
 }
 u {
     text-decoration: underline;
 }
-
+p.rgt {
+	text-align: right;
+}
+ul.rgt {
+	display: block
+	float: right;
+	clear: both;
+}
 </style>
 
 <body>
@@ -77,7 +88,7 @@ u {
 	<h2 style="text-align:center">Musician, Artist, Educator, Performer, Designer, ...</h2>
 	<p style="text-align:center">1940-2017</p>
 </header>	
-<nav>
+<nav id="ndx">
 	<a href="../index.html">&rarr; Front Page</a><br>
 	<a href="MrPowderface.html">&rarr; Mr. Powderface, Rascal Cat</a><br>	
 	--- <em> The Early Stories </em> ---<br>
@@ -95,7 +106,9 @@ u {
 	<h1>Mr. Powderface, Rascal Cat</h1>
 <figure>
 <img class="Robin" height="300" src="../images/robin/robin04.jpg">
-<figcaption class="Robin">Robin in winter at Dimond Recreation Center
+<figcaption class="Robin">Robin in winter at Dimond Recreation Center<br>
+<small><small> <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/3.0/us/88x31.png" /></a><br />The above photo is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/us/">Creative Commons Attribution-NonCommercial 3.0 United States License</a>.</small></small>
+
 </figcaption>
 </figure>
 <h2>Loaves and Fishes</h2>
@@ -115,6 +128,6 @@ u {
 	<p>The text on this page is published under the <a href="../CC_BY_SA.html">
 	Creative Commons Attribution-ShareAlike 4.0</a> International license,
 	also denoted "CC BY-SA 4.0"</p>
-<p>Last updated: 2017-09-26</p></footer>
+<p>Last updated: 2017-10-07</p></footer>
 </body>
 </html>

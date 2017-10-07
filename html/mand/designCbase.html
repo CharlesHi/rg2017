@@ -26,7 +26,7 @@ header, footer {
 
 nav {
     float: left;
-    max-width: 200px;
+    max-width: 175px;
     margin: 0;
     padding: 1em;
 }
@@ -60,13 +60,24 @@ img.Robin {
 	margin-left: auto;
 	margin-right: auto;
 }
+img.halfRow
+{	display: block;
+	max-width: 100%;
+}
 figcaption.Robin {
-	text-align: center;	
+	text-align: center;
 }
 u {
     text-decoration: underline;
 }
-
+p.rgt {
+	text-align: right;
+}
+ul.rgt {
+	display: block
+	float: right;
+	clear: both;
+}
 </style>
 
 <body>
@@ -78,13 +89,16 @@ u {
 	<h2 style="text-align:center">Musician, Artist, Educator, Performer, Designer, ...</h2>
 	<p style="text-align:center">1940-2017</p>
 </header>	
+<p class="rgt"><a href="#ndx">Index</a></p>
 	
 <figure>
 <img class="Robin" height="300" src="../images/robin/robin05.png">
-<figcaption class="Robin">Robin eating ice cream
+<figcaption class="Robin">Robin eating ice cream<br>
+<small><small> <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/3.0/us/88x31.png" /></a><br />The above photo is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/us/">Creative Commons Attribution-NonCommercial 3.0 United States License</a>.</small></small>
+
 </figcaption>
 </figure>
-<nav>
+<nav id="ndx">
 	<a href="../index.html">&rarr; Front Page</a><br>
 	<a href="mandindex.html">&rarr; Mandala Index</a></br>
 	<a href="3D-mandala6up.html">&rarr; 3-D Mandalas, 6 up</a></br>
@@ -106,6 +120,6 @@ u {
 	Creative Commons Attribution-ShareAlike 4.0</a> International license,
 	also denoted "CC BY-SA 4.0"
 	</p>
-<p>2017-09-25</p></footer>
+<p>Last updated: 2017-10-07</p></footer>
 </body>
 </html>

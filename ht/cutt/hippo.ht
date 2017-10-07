@@ -13,6 +13,7 @@
 <figcaption class="Robin">!!robcap14!</figcaption>
 </figure>
 !!cutt!
+<article>
 <div>
 	This is the image of the final hippopatamus:<br>
 <table>
@@ -24,10 +25,7 @@
 </div>
 The hippo is a two layer construction, but is glued at the nose and front of the jaw,
 so it could not be displayed splayed out to reveal the details of construction.
-<footer>
-	The images on this page are published under the <a href="../CC_BY_SA.html">
-	Creative Commons Attribution-ShareAlike 4.0</a> International license,
-	also denoted "CC BY-SA 4.0"
-</footer>
+</article>
+!!footer-1!
 </body>
 </html>

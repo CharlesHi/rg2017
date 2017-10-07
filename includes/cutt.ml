@@ -2,6 +2,7 @@
 	<a href="!htmlroot!index.html">&rarr; Front Page</a></br>
 	<a href="cuttindex.html">&rarr; The Cuttings Index page</a></br>
 	<b><u>The Animals</u></b><br>
+	<a href="horse-red+white.html">&rarr; Red and White Horse</a>
 	<a href="elephant.html">&rarr; Elephant</a></br>
 	<a href="zebra.html">&rarr; Zebra</a></br>
 	<a href="cow.html">&rarr; Cow</a></br>
