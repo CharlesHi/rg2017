@@ -1,4 +1,4 @@
-<nav>
+<nav id="ndx">
 	<a href="!htmlroot!index.html">&rarr; Front Page</a></br>
 	<a href="bookindex.html">&rarr; The booklet index page</a></br>
 	<b><u>Project Booklets</u></b><br>

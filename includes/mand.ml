@@ -1,4 +1,4 @@
-<nav>
+<nav id="ndx">
 	<a href="!htmlroot!index.html">&rarr; Front Page</a><br>
 	<a href="mandindex.html">&rarr; Mandala Index</a></br>
 	<a href="3D-mandala6up.html">&rarr; 3-D Mandalas, 6 up</a></br>

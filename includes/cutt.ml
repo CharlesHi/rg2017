@@ -1,4 +1,4 @@
-<nav>
+<nav id="ndx">
 	<a href="!htmlroot!index.html">&rarr; Front Page</a></br>
 	<a href="cuttindex.html">&rarr; The Cuttings Index page</a></br>
 	<b><u>The Animals</u></b><br>

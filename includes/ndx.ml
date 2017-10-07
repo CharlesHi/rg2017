@@ -1,4 +1,4 @@
-<nav>
+<nav id="ndx">
 	<a href="!htmlpath!index.html">&rarr; Front Page</a></br>
 	<a href="!htmlpath!cutt/cuttindex.html">&rarr; Cuttings</a></br>
 	<a href="!htmlpath!awbk/awbk.html">&rarr; Award Bookmarks</a></br>

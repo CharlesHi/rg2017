@@ -1,4 +1,4 @@
-<nav>
+<nav id="ndx">
 	<a href="!htmlroot!index.html">&rarr; Front Page</a></br>
 	<a href="awbk.html">&rarr; Award Bookmark die usage example</a></br>
 	<a href="basket.html">&rarr; Basket Mandala page</a></br>

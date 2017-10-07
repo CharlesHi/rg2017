@@ -1,4 +1,4 @@
-<nav>
+<nav id="ndx">
 	<a href="!htmlroot!index.html">&rarr; Front Page</a><br>
 	<a href="MrPowderface.html">&rarr; Mr. Powderface, Rascal Cat</a><br>	
 	--- <em> The Early Stories </em> ---<br>
