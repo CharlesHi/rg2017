@@ -4,4 +4,5 @@
 	<b><u>Project Booklets</u></b><br>
 	<a href="what.html">&rarr; Where did you get that hat?</a></br>
 	<a href="howt.html">&rarr; How to dress a teddy bear</a></br>
+	<a href="card.html">&rarr; Card Game</a></br>
 </nav>

@@ -25,14 +25,14 @@
 <table>	<tr>
 		<td><a href="what.html">Where did you get that hat?</a></td>
 		<td><a href="howt.html">How to dress a teddy bear</a></td>
-		<td></td>
+		<td><a href="card.html">Card Game</a></td>
 		<td></td>
 		<td></td>
 	</tr>
 	<tr>
 		<td width="20%"><a href="what.html"><img width="100%" align="left" src="!htmlroot!images/book/where_did_you_get_that_hat/Pg00-front cover.png"></a></td>
-		<td width="20%"><a href="howt.html"><img width="100%" align="left" src="!htmlroot!images/book/how_to_dress_a_teddy_bear.png"</td>
-		<td width="20%"></td>
+		<td width="20%"><a href="howt.html"><img width="100%" align="left" src="!htmlroot!images/book/how_to_dress_a_teddy_bear/how1.png"></a></td>
+		<td width="20%"><a href="card.html"><img width="100%" align="left" src="!htmlroot!images/book/card_game/00-cover.jpeg"></a></td>
 		<td width="20%"></td>
 		<td width="20%"></td>
 	</tr>

@@ -1,0 +1,163 @@
+!htmlpath!	cutt/
+!htmlroot!	../
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Selections from the Life and Works of Robin Goodfellow, Musician, Artist, Educator</title>
+!!css_styles!
+<body>
+!!header!
+<figure>
+<img class="Robin" height="300" align="center" src="!htmlroot!images/robin/robin30.jpg">
+<figcaption class="Robin">!!robcap30!</figcaption>
+</figure>
+!!book!
+<article>
+	<h2>Card Game</h2>
+<div>
+	<p>This booklet is a collection of simple projects that can be done with greeting cards.  It is one of her earlier works, among those I have access to.  There were many much earlier, but they seem to have been totally lost.</p>
+	<p>Note that the page numbers of the book do not match the project numbers.  This is not a mistake.  Some projects take up more than one page, and I didn't want to change numbering for the introduction.  Most of the booklets will be numbered pages sequentially with the cover page counting as page 0.  This booklet was printed on both sides of the paper, so the inside of the cover (which happens to be blank) got it's own page number.</p>
+<table>
+<tr>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/00-cover.jpeg"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/blank.jpeg"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/blank.jpeg"></td>
+		</tr>
+<tr>	<td> <a href="!htmlroot!images/book/card_game/00-cover.jpeg" download>download the cover (page 0)</a></td>
+		<td> <a href="!htmlroot!images/book/card_game/blank.jpeg" download>download a blank page 1</a></td>
+		<td> <a href="!htmlroot!images/book/card_game/blank.jpeg" download>download a blank page 2</a></td>
+		</tr>
+<tr>	<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/03.jpeg"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/04.jpeg"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/05.jpeg"></td></tr>
+<tr>	<td> <a href="!htmlroot!images/book/card_game/03.jpeg" download>download page 3</a></td>
+		<td> <a href="!htmlroot!images/book/card_game/04.jpeg" download>download page 4</a></td>
+		<td> <a href="!htmlroot!images/book/card_game/05.jpeg" download>download page 5</a></td>
+		</tr>
+<tr>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/06.jpeg"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/07.jpeg"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/08.jpeg"></td></tr>
+<tr>	<td> <a href="!htmlroot!images/book/card_game/06.jpeg" download>download page 6</a></td>
+		<td> <a href="!htmlroot!images/book/card_game/07.jpeg" download>download page 7</a></td>
+		<td> <a href="!htmlroot!images/book/card_game/08.jpeg" download>download page 8</a></td>
+		</tr>
+<tr>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/09.jpeg"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/10.jpeg"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/blank.jpeg"></td>
+		</tr>
+<tr>	<td> <a href="!htmlroot!images/book/card_game/09.jpeg" download>download page 9</a></td>
+		<td> <a href="!htmlroot!images/book/card_game/10.jpeg" download>download page 10</a></td>
+		<td> <a href="!htmlroot!images/book/card_game/blank.jpeg" download>download a blank page 11</a></td>
+		</tr>
+<tr>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/12.jpeg"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/13.jpeg"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/14.jpeg"></td>
+		</tr>
+<tr>	<td> <a href="!htmlroot!images/book/card_game/12.jpeg" download>download page 12</a></td>
+		<td> <a href="!htmlroot!images/book/card_game/13.jpeg" download>download page 13</a></td>
+		<td> <a href="!htmlroot!images/book/card_game/14.jpeg" download>download page 14</a></td>
+		</tr>
+<tr>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/15.jpeg"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/16.jpeg"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/17.jpeg"></td>
+		</tr>
+<tr>	<td> <a href="!htmlroot!images/book/card_game/15.jpeg" download>download page 15</a></td>
+		<td> <a href="!htmlroot!images/book/card_game/16.jpeg" download>download page 16</a></td>
+		<td> <a href="!htmlroot!images/book/card_game/17.jpeg" download>download page 17</a></td>
+		</tr>
+<tr>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/18.jpeg"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/19.jpeg"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/20.jpeg"></td>
+		</tr>
+<tr>	<td> <a href="!htmlroot!images/book/card_game/18.jpeg" download>download page 18</a></td>
+		<td> <a href="!htmlroot!images/book/card_game/19.jpeg" download>download page 19</a></td>
+		<td> <a href="!htmlroot!images/book/card_game/20.jpeg" download>download page 20</a></td>
+		</tr>
+<tr>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/21.jpeg"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/22.jpeg"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/23.jpeg"></td>
+		</tr>
+<tr>	<td> <a href="!htmlroot!images/book/card_game/21.jpeg" download>download page 21</a></td>
+		<td> <a href="!htmlroot!images/book/card_game/22.jpeg" download>download page 22</a></td>
+		<td> <a href="!htmlroot!images/book/card_game/23.jpeg" download>download page 23</a></td>
+		</tr>
+<tr>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/24.jpeg"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/25.jpeg"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/26.jpeg"></td>
+		</tr>
+<tr>	<td> <a href="!htmlroot!images/book/card_game/24.jpeg" download>download page 24</a></td>
+		<td> <a href="!htmlroot!images/book/card_game/25.jpeg" download>download page 25</a></td>
+		<td> <a href="!htmlroot!images/book/card_game/26.jpeg" download>download page 26</a></td>
+		</tr>
+<tr>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/27.jpeg"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/28.jpeg"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/29.jpeg"></td>
+		</tr>
+<tr>	<td> <a href="!htmlroot!images/book/card_game/27.jpeg" download>download page 27</a></td>
+		<td> <a href="!htmlroot!images/book/card_game/28.jpeg" download>download page 28</a></td>
+		<td> <a href="!htmlroot!images/book/card_game/29.jpeg" download>download page 29</a></td>
+		</tr>
+<tr>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/30.jpeg"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/31.jpeg"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/32.jpeg"></td>
+		</tr>
+<tr>	<td> <a href="!htmlroot!images/book/card_game/30.jpeg" download>download page 30</a></td>
+		<td> <a href="!htmlroot!images/book/card_game/31.jpeg" download>download page 31</a></td>
+		<td> <a href="!htmlroot!images/book/card_game/32.jpeg" download>download page 32</a></td>
+		</tr>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/33.jpeg"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/34.jpeg"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/35.jpeg"></td>
+		</tr>
+<tr>	<td> <a href="!htmlroot!images/book/card_game/33.jpeg" download>download page 33</a></td>
+		<td> <a href="!htmlroot!images/book/card_game/34.jpeg" download>download page 34</a></td>
+		<td> <a href="!htmlroot!images/book/card_game/35.jpeg" download>download page 35</a></td>
+		</tr>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/36.jpeg"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/37.jpeg"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/38.jpeg"></td>
+		</tr>
+<tr>	<td> <a href="!htmlroot!images/book/card_game/36.jpeg" download>download page 36</a></td>
+		<td> <a href="!htmlroot!images/book/card_game/37.jpeg" download>download page 37</a></td>
+		<td> <a href="!htmlroot!images/book/card_game/38.jpeg" download>download page 38</a></td>
+		</tr>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/39.jpeg"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/40.jpeg"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/41.jpeg"></td>
+		</tr>
+<tr>	<td> <a href="!htmlroot!images/book/card_game/39.jpeg" download>download page 39</a></td>
+		<td> <a href="!htmlroot!images/book/card_game/40.jpeg" download>download page 40</a></td>
+		<td> <a href="!htmlroot!images/book/card_game/41.jpeg" download>download page 41</a></td>
+		</tr>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/42.jpeg"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/43.jpeg"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/44.jpeg"></td>
+		</tr>
+<tr>	<td> <a href="!htmlroot!images/book/card_game/42.jpeg" download>download page 42</a></td>
+		<td> <a href="!htmlroot!images/book/card_game/43.jpeg" download>download page 43</a></td>
+		<td> <a href="!htmlroot!images/book/card_game/44.jpeg" download>download page 44</a></td>
+		</tr>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/45.jpeg"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/46.jpeg"></td>
+		<td width="33%"><img class="halfRow" src="!htmlroot!images/book/card_game/47.jpeg"></td>
+		</tr>
+<tr>	<td> <a href="!htmlroot!images/book/card_game/45.jpeg" download>download page 45</a></td>
+		<td> <a href="!htmlroot!images/book/card_game/46.jpeg" download>download page 46</a></td>
+		<td> <a href="!htmlroot!images/book/card_game/47.jpeg" download>download page 47</a></td>
+		</tr>
+</table>
+</div>
+</article>
+!!footer-1!
+</body>
+</html>
