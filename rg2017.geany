@@ -26,7 +26,19 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=0
+current_page=5
+FILE_NAME_0=2645;HTML;0;EUTF-8;1;1;1;%2Fhome%2Fcharles%2Fprojects%2FRobinSite%2Frg2017%2Fht%2Findex.ht;0;3
+FILE_NAME_1=0;CAML;0;EUTF-8;1;1;0;%2Fhome%2Fcharles%2Fprojects%2FRobinSite%2Frg2017%2Fincludes%2Fndx.ml;0;3
+FILE_NAME_2=357;CAML;0;EUTF-8;1;1;0;%2Fhome%2Fcharles%2Fprojects%2FRobinSite%2Frg2017%2Fincludes%2Fbook.ml;0;3
+FILE_NAME_3=1471;HTML;0;EUTF-8;1;1;1;%2Fhome%2Fcharles%2Fprojects%2FRobinSite%2Frg2017%2Fht%2Fbook%2Fbookindex.ht;0;3
+FILE_NAME_4=379;HTML;0;EUTF-8;1;1;1;%2Fhome%2Fcharles%2Fprojects%2FRobinSite%2Frg2017%2Fht%2Fbook%2Fhowt.ht;0;3
+FILE_NAME_5=9796;HTML;0;EUTF-8;1;1;1;%2Fhome%2Fcharles%2Fprojects%2FRobinSite%2Frg2017%2Fht%2Fbook%2Fcard.ht;0;3
+FILE_NAME_6=447;CAML;0;EUTF-8;1;1;0;%2Fhome%2Fcharles%2Fprojects%2FRobinSite%2Frg2017%2Fincludes%2Fheader.ml;0;3
+FILE_NAME_7=845;HTML;0;EUTF-8;1;1;0;%2Fhome%2Fcharles%2Fprojects%2FRobinSite%2Frg2017%2Fht%2Fcutt%2Fcuttindex.ht;0;3
+FILE_NAME_8=54;HTML;0;EUTF-8;1;1;0;%2Fhome%2Fcharles%2Fprojects%2FRobinSite%2Frg2017%2Fht%2Fcutt%2Fhorse-orange.ht;0;3
+FILE_NAME_9=54;HTML;0;EUTF-8;1;1;0;%2Fhome%2Fcharles%2Fprojects%2FRobinSite%2Frg2017%2Fht%2Fcutt%2Fhorse-red%2Bwhite.ht;0;3
+FILE_NAME_10=210;CAML;0;EUTF-8;1;1;0;%2Fhome%2Fcharles%2Fprojects%2FRobinSite%2Frg2017%2Fincludes%2Fcutt.ml;0;3
+FILE_NAME_11=24;CAML;0;EUTF-8;1;1;0;%2Fhome%2Fcharles%2Fprojects%2FRobinSite%2Frg2017%2Fincludes%2Frobcap30.ml;0;3
 
 [VTE]
 last_dir=/home/charles/projects/RobinSite/rg2017
