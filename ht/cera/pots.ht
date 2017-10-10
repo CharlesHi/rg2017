@@ -1,0 +1,167 @@
+!htmlpath!	cera/
+!htmlroot!	../
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Selections from the Life and Works of Robin Goodfellow, Musician, Artist, Educator</title>
+!!css_styles!
+<body>
+!!header!
+<figure>
+<img class="Robin" height="300" src="!htmlroot!images/robin/robin33.png">
+<figcaption class="Robin">!!robcap33!</figcaption>
+</figure>
+!!cera!
+<article>
+<p>Calling these things pots is a bit arbitrary.  I say that pots are any containers designed to have a lid, but this isn't really true, as it would include some things that will end up in other.</p>
+<h3><a id="pots">Pots</a></h3>
+<table>
+	<tr>
+		<td id="pot+lid1">Pot with lid off </td>
+		<td id="pot+lid2">2nd pot with lid off</td>
+	</tr>
+	<tr>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/pot and lid.jpg"></a>
+		<a href="!htmlroot!images/cera/pot and lid.jpg" download>download</a></td>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/pot and lid2.jpg"></a>
+		<a href="!htmlroot!images/cera/pot and lid2.jpg" download>download</a></td>
+	</tr>
+</table>
+<br><hr><br>
+<table>
+	<tr>
+		<td id="pot-lid1">Pot without lid</td>
+		<td id="pot-lid2">2nd Pot without lid</td>
+	</tr>
+	<tr>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/pot without lid1.jpg"></a>
+		<a href="!htmlroot!images/cera/pot without lid1.jpg" download>download</a></td>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/pot without lid2.jpg"></a>
+		<a href="!htmlroot!images/cera/pot without lid2.jpg" download>download</a></td>
+	</tr>
+</table>
+<br><hr><br>
+<table>
+	<tr>
+		<td id="pot-lid3">3rd Pot without lid</td>
+		<td id="pot-mouse1">1st Mouse Pot</td>
+	</tr>
+	<tr>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/pot without lid3.jpg"></a>
+		<a href="!htmlroot!images/cera/pot without lid3.jpg" download>download</a></td>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/pot-mouse1.jpg"></a>
+		<a href="!htmlroot!images/cera/pot-mouse1.jpg" download>download</a></td>
+	</tr>
+</table>
+<br><hr><br>
+<table>
+	<tr>
+		<td id="pot-mouse2">2nd Mouse Pot</td>
+		<td id="pot-pumpkin">Pumpkin Pot</td>
+	</tr>
+	<tr>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/pot-mouse2.jpg"></a>
+		<a href="!htmlroot!images/cera/pot-mouse2.jpg" download>download</a></td>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/pot-pumpkin.jpg"></a>
+		<a href="!htmlroot!images/cera/pot-pumpkin.jpg" download>download</a></td>
+	</tr>
+</table>
+<br><hr><br>
+<table>
+	<tr>
+		<td id="pot02">Pot 02</td>
+		<td id="pot03">Pot 03</td>
+	</tr>
+	<tr>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/pot02a.jpg"></a>
+		<a href="!htmlroot!images/cera/pot02a.jpg" download>download</a></td>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/pot03.jpg"></a>
+		<a href="!htmlroot!images/cera/pot03.jpg" download>download</a></td>
+	</tr>
+</table>
+<br><hr><br>
+<table>
+	<tr>
+		<td id="pot04">Pot 04</td>
+		<td id="pot05">Pot 05</td>
+	</tr>
+	<tr>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/pot04.jpg"></a>
+		<a href="!htmlroot!images/cera/pot04.jpg" download>download</a></td>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/pot05.jpg"></a>
+		<a href="!htmlroot!images/cera/pot05.jpg" download>download</a></td>
+	</tr>
+</table>
+<br><hr><br>
+<table>
+	<tr>
+		<td id="pot06">Pot 06</td>
+		<td id="pot07">Pot 07</td>
+	</tr>
+	<tr>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/pot06.jpg"></a>
+		<a href="!htmlroot!images/cera/pot06.jpg" download>download</a></td>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/pot07.jpg"></a>
+		<a href="!htmlroot!images/cera/pot07.jpg" download>download</a></td>
+	</tr>
+</table>
+<br><hr><br>
+<table>
+	<tr>
+		<td id="pot08">Pot 08</td>
+		<td id="pot09">Pot 09</td>
+	</tr>
+	<tr>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/pot08.jpg"></a>
+		<a href="!htmlroot!images/cera/pot08.jpg" download>download</a></td>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/pot09.jpg"></a>
+		<a href="!htmlroot!images/cera/pot09.jpg" download>download</a></td>
+	</tr>
+</table>
+<br><hr><br>
+<table>
+	<tr>
+		<td id="pot10">Pot 10</td>
+		<td id="pot11">Pot 11</td>
+	</tr>
+	<tr>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/pot10.jpg"></a>
+		<a href="!htmlroot!images/cera/pot10.jpg" download>download</a></td>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/pot11.jpg"></a>
+		<a href="!htmlroot!images/cera/pot11.jpg" download>download</a></td>
+	</tr>
+</table>
+<br><hr><br>
+<table>
+	<tr>
+		<td id="pot12">Pot 12</td>
+		<td id="pot13">Pot 13</td>
+	</tr>
+	<tr>
+		<td width="50%"><img width="120%" align="left" src="!htmlroot!images/cera/pot12.jpg"></a>
+		<a href="!htmlroot!images/cera/pot12.jpg" download>download</a></td>
+		<td width="50%"><img width="120%" align="left" src="!htmlroot!images/cera/pot13.jpg"></a>
+		<a href="!htmlroot!images/cera/pot13.jpg" download>download</a></td>
+	</tr>
+</table>
+<br><hr><br>
+
+<table>
+	<tr>
+		<td id="pot14">Pot 14</td>
+		<td id="pot15"></td>
+	</tr>
+	<tr>
+		<td width="50%"><img width="120%" align="left" src="!htmlroot!images/cera/pot14.jpg"></a>
+		<a href="!htmlroot!images/cera/pot14.jpg" download>download</a></td>
+		<td width="50%"></td>
+	</tr>
+</table>
+<br><hr><br>
+
+
+</article>
+!!footer-1!
+</body>
+</html>

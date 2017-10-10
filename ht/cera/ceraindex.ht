@@ -1,0 +1,180 @@
+!htmlpath!	cera/
+!htmlroot!	../
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Selections from the Life and Works of Robin Goodfellow, Musician, Artist, Educator</title>
+!!css_styles!
+<body>
+!!header!
+<figure>
+<img class="Robin" height="300" src="!htmlroot!images/robin/robin31.jpg">
+<figcaption class="Robin">!!robcap31!</figcaption>
+</figure>
+<p class="rgt">	<a id="top"></a>
+	<ul class="rgt">
+		<li><a href="#bowls">Bowls: Containers designed to not have lids</a></li>
+		<li><a href="#pots">Pots: Containers designed to <u>have</u> lids</a></li>
+		<li><a href="#other">Other Ceramic Works</a></li>
+	</ul>
+</p>
+!!cera!
+<article>
+<p>Much of Robin's work in ceramics was done in classes where she was preparing students to make an ocarina.  So these are demonstration pieces intended more to demonstrate the process of making than to produce a finished work.</p>
+<p><b>Silly Notice:</b>  The things under this page are pictures of ceramic things.  If you follow a link from this page you get to an enlarged image, and there you will be able to download a copy of the original image.  But there aren't instructions on how to make one, and the images aren't useful for 3-d printing.</p>
+<p class="rgt"><a href="#ndx">Index</a><br>
+<a href="#bowls">Bowls</a><br>
+<a href="#pots">Pots</a><br>
+<a href="#othr">Othr</a><br>
+</p>
+<h3><a id="bowls">Bowls: Containers designed to not have lids</a></h3>
+<table>
+	<tr>
+		<td><a href="bowl.html#bowl-heart">Heart bowl</a></td>
+		<td><a href="bowl.html#bowl-orange1">Orange bowl 1</a></td>
+		<td><a href="bowl.html#bowl-orange2">Orange bowl 2</a></td>
+		<td><a href="bowl.html#bowl01">bowl 01</a></td>
+		<td><a href="bowl.html#bowl02">bowl 02</a></td>
+		<td><a href="bowl.html#bowl03">bowl 03</a></td>
+		<td><a href="bowl.html#bowl04">bowl 04</a></td>
+		<td><a href="bowl.html#bowl05">bowl 05</a></td>
+	</tr>
+	<tr>
+		<td width="12.5%"><a href="bowl.html#bowl-heart"><img width="100%" align="left" src="!htmlroot!images/cera/bowl-heart.jpg"></a></td>
+		<td width="12.5%"><a href="bowl.html#bowl-orange1"><img width="100%" align="left" src="!htmlroot!images/cera/bowl-orange1.jpg"></a></td>
+		<td width="12.5%"><a href="bowl.html#bowl-orange2"><img width="100%" align="left" src="!htmlroot!images/cera/bowl-orange2.jpg"></a></td>
+		<td width="12.5%"><a href="bowl.html#bowl01"><img width="100%" align="left" src="!htmlroot!images/cera/bowl01.jpg"></a></td>
+		<td width="12.5%"><a href="bowl.html#bowl02"><img width="100%" align="left" src="!htmlroot!images/cera/bowl02.jpg"></a></td>
+		<td width="12.5%"><a href="bowl.html#bowl03"><img width="100%" align="left" src="!htmlroot!images/cera/bowl03.jpg"></a></td>
+		<td width="12.5%"><a href="bowl.html#bowl04"><img width="100%" align="left" src="!htmlroot!images/cera/bowl04.jpg"></a></td>
+		<td width="12.5%"><a href="bowl.html#bowl05"><img width="100%" align="left" src="!htmlroot!images/cera/bowl05.jpg"></a></td>
+	</tr>
+	<tr>
+		<td><a href="bowl.html#cat-pot1">Cat bowl, image 1</a></td>
+		<td><a href="bowl.html#cat-pot2">Cat bowl, image 2</a></td>
+		<td><a href="bowl.html#cat-pot3">Cat bowl, image 3</a></td>
+		<td><a href="bowl.html#vase01">Vase 1</a></td>
+		<td><a href="bowl.html#vase02">Vase 2</a></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td width="12.5%"><a href="bowl.html#cat-pot1"><img width="100%" align="left" src="!htmlroot!images/cera/cat pot1.jpg"></a></td>
+		<td width="12.5%"><a href="bowl.html#cat-pot2"><img width="100%" align="left" src="!htmlroot!images/cera/cat pot2.jpg"></a></td>
+		<td width="12.5%"><a href="bowl.html#cat-pot3"><img width="100%" align="left" src="!htmlroot!images/cera/cat pot3.jpg"></a></td>
+		<td width="12.5%"><a href="bowl.html#vase01"><img width="100%" align="left" src="!htmlroot!images/cera/vase01.jpg"></a></td>
+		<td width="12.5%"><a href="bowl.html#vase02"><img width="100%" align="left" src="!htmlroot!images/cera/vase02.jpg"></a></td>
+		<td width="12.5%"></td>
+		<td width="12.5%"></td>
+		<td width="12.5%"></td>
+	</tr>
+</table>
+<p>The cat bowl images are three different photographs of the same item.  I was trying to get a better image, and mainly proved that I'm not a good photographer.</p>
+<p class="rgt"><a href="#ndx">Index</a><br>
+<a href="#bowls">Bowls</a><br>
+<a href="#pots">Pots</a><br>
+<a href="#othr">Othr</a><br>
+</p>
+<h3><a id="pots">Pots: Containers designed to <u>have</u> lids</a></h3>
+<p>Most of these pots will have the lid in place.  In some of them I set the lid ajar to allow you to see the join.  In a couple of instances I actually removed the lid.  And I believe that some of the lids are missing, perhaps broken.</p>
+<table>
+	<tr>
+		<td><a href="pots.html#pot+lid1">Pot with lid off</a></td>
+		<td><a href="pots.html#pot+lid2">2nd Pot with lid off</a></td>
+		<td><a href="pots.html#pot-lid1">Pot without lid</a></td>
+		<td><a href="pots.html#pot-lid2">2nd Pot without lid</a></td>
+		<td><a href="pots.html#pot-lid3">3rd Pot without lid</a></td>
+		<td><a href="pots.html#pot-mouse1">1st Mouse Pot</a></td>
+		<td><a href="pots.html#pot-mouse2">2nd Mouse Pot</a></td>
+		<td><a href="pots.html#pot-pumpkin">Pumpkin Pot</a></td>
+	</tr>
+	<tr>
+		<td width="12.5%"><a href="pots.html#pot+lid1"><img width="100%" align="left" src="!htmlroot!images/cera/pot and lid.jpg"></a></td>
+		<td width="12.5%"><a href="pots.html#pot+lid2"><img width="100%" align="left" src="!htmlroot!images/cera/pot and lid2.jpg"></a></td>
+		<td width="12.5%"><a href="pots.html#pot-lid1"><img width="100%" align="left" src="!htmlroot!images/cera/pot without lid1.jpg"></a></td>
+		<td width="12.5%"><a href="pots.html#pot-lid2"><img width="100%" align="left" src="!htmlroot!images/cera/pot without lid2.jpg"></a></td>
+		<td width="12.5%"><a href="pots.html#pot-lid3"><img width="100%" align="left" src="!htmlroot!images/cera/pot without lid3.jpg"></a></td>
+		<td width="12.5%"><a href="pots.html#pot-mouse1"><img width="100%" align="left" src="!htmlroot!images/cera/pot-mouse1.jpg"></a></td>
+		<td width="12.5%"><a href="pots.html#pot-mouse2"><img width="100%" align="left" src="!htmlroot!images/cera/pot-mouse2.jpg"></a></td>
+		<td width="12.5%"><a href="pots.html#pot-pumpkin"><img width="100%" align="left" src="!htmlroot!images/cera/pot-pumpkin.jpg"></a></td>
+	</tr>
+	<tr></tr>
+	<tr>
+		<td><a href="pots.html#pot02">Pot 02</a></td>
+		<td><a href="pots.html#pot03">Pot 03</a></td>
+		<td><a href="pots.html#pot04">Pot 04</a></td>
+		<td><a href="pots.html#pot05">Pot 05</a></td>
+		<td><a href="pots.html#pot06">Pot 06</a></td>
+		<td><a href="pots.html#pot07">Pot 07</a></td>
+		<td><a href="pots.html#pot08">Pot 08</a></td>
+		<td><a href="pots.html#pot09">Pot 09</a></td>
+	</tr>
+	<tr>
+		<td width="12.5%"><a href="pots.html#pot02"><img width="100%" align="left" src="!htmlroot!images/cera/pot02a.jpg"></a></td>
+		<td width="12.5%"><a href="pots.html#pot03"><img width="100%" align="left" src="!htmlroot!images/cera/pot03.jpg"></a></td>
+		<td width="12.5%"><a href="pots.html#pot04"><img width="100%" align="left" src="!htmlroot!images/cera/pot04.jpg"></a></td>
+		<td width="12.5%"><a href="pots.html#pot05"><img width="100%" align="left" src="!htmlroot!images/cera/pot05.jpg"></a></td>
+		<td width="12.5%"><a href="pots.html#pot06"><img width="100%" align="left" src="!htmlroot!images/cera/pot06.jpg"></a></td>
+		<td width="12.5%"><a href="pots.html#pot07"><img width="100%" align="left" src="!htmlroot!images/cera/pot07.jpg"></a></td>
+		<td width="12.5%"><a href="pots.html#pot08"><img width="100%" align="left" src="!htmlroot!images/cera/pot08.jpg"></a></td>
+		<td width="12.5%"><a href="pots.html#pot09"><img width="100%" align="left" src="!htmlroot!images/cera/pot09.jpg"></a></td>
+	</tr>
+	
+	<tr></tr>
+	<tr>
+		<td><a href="pots.html#pot10">Pot 10</a></td>
+		<td><a href="pots.html#pot11">Pot 11</a></td>
+		<td><a href="pots.html#pot12">Pot 12</a></td>
+		<td><a href="pots.html#pot13">Pot 13</a></td>
+		<td><a href="pots.html#pot14">Pot 14</a></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td width="12.5%"><a href="pots.html#pot10"><img width="100%" align="left" src="!htmlroot!images/cera/pot10.jpg"></a></td>
+		<td width="12.5%"><a href="pots.html#pot11"><img width="100%" align="left" src="!htmlroot!images/cera/pot11.jpg"></a></td>
+		<td width="12.5%"><a href="pots.html#pot12"><img width="100%" align="left" src="!htmlroot!images/cera/pot12.jpg"></a></td>
+		<td width="12.5%"><a href="pots.html#pot13"><img width="100%" align="left" src="!htmlroot!images/cera/pot13.jpg"></a></td>
+		<td width="12.5%"><a href="pots.html#pot14"><img width="100%" align="left" src="!htmlroot!images/cera/pot14.jpg"></a></td>
+		<td width="12.5%"></td>
+		<td width="12.5%"></td>
+		<td width="12.5%"></td>
+	</tr>
+</table>
+
+<p class="rgt"><a href="#ndx">Index</a><br>
+<a href="#bowls">Bowls</a><br>
+<a href="#pots">Pots</a><br>
+<a href="#othr">Othr</a><br>
+</p>
+<h3><a id="othr">Other:  Unusual items</a></h3>
+<table>
+	<tr>
+		<td><a href="othr.html#bag-fabric">Fabric bag</a></td>
+		<td><a href="othr.html#horse">Horse</a></td>
+		<td><a href="othr.html#dog-oca1b">Dog ocarina, back view</a></td>
+		<td><a href="othr.html#dog-oca1f">Dog ocarina, front view</a></td>
+		<td><a href="othr.html#doll-flat">"Gingerbread" doll</a></td>
+		<td><a href="othr.html#porcup">Porcupine body</a></td>
+		<td><a href="othr.html#watrc">Watering can</a></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td width="12.5%"><a href="othr.html#bag-fabric"><img width="100%" align="left" src="!htmlroot!images/cera/bag-fabric.jpg"></a></td>
+		<td width="12.5%"><a href="othr.html#horse"><img width="100%" align="left" src="!htmlroot!images/cera/horse.jpg"></a></td>
+		<td width="12.5%"><a href="othr.html#dog-oca1b"><img width="100%" align="left" src="!htmlroot!images/cera/dog ocarina-back.jpg"></a></td>
+		<td width="12.5%"><a href="othr.html#dog-oca1f"><img width="100%" align="left" src="!htmlroot!images/cera/dog ocarina-front.jpg"></a></td>
+		<td width="12.5%"><a href="othr.html#doll-flat"><img width="100%" align="left" src="!htmlroot!images/cera/doll-flat.jpg"></a></td>
+		<td width="12.5%"><a href="othr.html#porcup"><img width="100%" align="left" src="!htmlroot!images/cera/porcupine body.jpg"></a></td>
+		<td width="12.5%"><a href="othr.html#watrc"><img width="100%" align="left" src="!htmlroot!images/cera/watering can.jpg"></a></td>
+		<td width="12.5%"></td>
+	</tr>
+
+</table>
+</article>
+!!footer-1!
+</body>
+</html>

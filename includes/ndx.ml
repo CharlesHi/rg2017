@@ -6,5 +6,5 @@
 	<a href="!htmlpath!mand/mandindex.html">&rarr; Mandala Index</a></br>
 	<a href="!htmlpath!colo/coloindex.html">&rarr; Designs colored or to color</a></br>
 	<a href="!htmlpath!book/bookindex.html">&rarr; booklets</a></br>
-	<a href="!htmlpath!index.html">&rarr; ceramic works -- not yet implemented</a></br>
+	<a href="!htmlpath!cera/ceraindex.html">&rarr; ceramic works</a></br>
 </nav>

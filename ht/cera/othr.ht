@@ -1,0 +1,73 @@
+!htmlpath!	cera/
+!htmlroot!	../
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Selections from the Life and Works of Robin Goodfellow, Musician, Artist, Educator</title>
+!!css_styles!
+<body>
+!!header!
+<figure>
+<img class="Robin" height="300" src="!htmlroot!images/robin/robin34.jpg">
+<figcaption class="Robin">!!robcap34!</figcaption>
+</figure>
+!!cera!
+<article>
+<p>These are things in the ceramic group that I didn't want to call either pots or bowls.</p>
+<h3><a id="othr">Other Items</a></h3>
+<table>
+	<tr>
+		<td id="bag-fabric">Bag to hold ceramic items</td>
+		<td id="horse">Horse</td>
+	</tr>
+	<tr>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/bag-fabric.jpg"></a>
+		<a href="!htmlroot!images/cera/bag-fabric.jpg" download>download</a></td>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/horse.jpg"></a>
+		<a href="!htmlroot!images/cera/horse.jpg" download>download</a></td>
+	</tr>
+</table>
+<br><hr><br>
+<table>
+	<tr>
+		<td id="dog-oca1b">Dog ocarina, back view</td>
+		<td id="dog-oca1f">Dog ocarina, front view</td>
+	</tr>
+	<tr>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/dog ocarina-back.jpg"></a>
+		<a href="!htmlroot!images/cera/dog ocarina-back.jpg" download>download</a></td>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/dog ocarina-front.jpg"></a>
+		<a href="!htmlroot!images/cera/dog ocarina-front.jpg" download>download</a></td>
+	</tr>
+</table>
+<br><hr><br>
+<table>
+	<tr>
+		<td id="doll-flat">Ceramic "gingerbread" doll</td>
+		<td id="porcup">Porcupine body</td>
+	</tr>
+	<tr>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/doll-flat.jpg"></a>
+		<a href="!htmlroot!images/cera/doll-flat.jpg" download>download</a></td>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/porcupine body.jpg"></a>
+		<a href="!htmlroot!images/cera/porcupine body.jpg" download>download</a></td>
+	</tr>
+</table>
+<br><hr><br>
+<table>
+	<tr>
+		<td id="watrc">Watering Can</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/watering can.jpg"></a>
+		<a href="!htmlroot!images/cera/watering can.jpg" download>download</a></td>
+		<td width="50%"></td>
+	</tr>
+</table>
+
+</article>
+!!footer-1!
+</body>
+</html>

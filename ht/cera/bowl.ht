@@ -1,0 +1,114 @@
+!htmlpath!	cera/
+!htmlroot!	../
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Selections from the Life and Works of Robin Goodfellow, Musician, Artist, Educator</title>
+!!css_styles!
+<body>
+!!header!
+<figure>
+<img class="Robin" height="300" src="!htmlroot!images/robin/robin32.jpg">
+<figcaption class="Robin">!!robcap32!</figcaption>
+</figure>
+!!cera!
+<article>
+<p>Calling these things bowls is a bit arbitrary, and definitely includes vases.  I say that bowls are any containers not designed to have a lid, but this isn't really true, as I put ocarinas and lamps in Other rather than calling them bowls.</p>
+<h3><a id="bowls">Bowls</a></h3>
+<table>
+	<tr>
+		<td id="bowl-heart">Heart bowl</td>
+		<td id="bowl-orange1">First orange bowl</td>
+	</tr>
+	<tr>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/bowl-heart.jpg"></a>
+		<a href="!htmlroot!images/cera/bowl-heart.jpg" download>download</a></td>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/bowl-orange1.jpg"></a>
+		<a href="!htmlroot!images/cera/bowl-orange1.jpg" download>download</a></td>
+	</tr>
+</table>
+<br><hr><br>
+<table>
+	<tr>
+		<td id="bowl-orange2">Second orange bowl</td>
+		<td id="bowl01">bowl 01</td>
+	</tr>
+	<tr>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/bowl-orange2.jpg"></a>
+		<a href="!htmlroot!images/cera/bowl-orange2.jpg" download>download</a></td>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/bowl01.jpg"></a>
+		<a href="!htmlroot!images/cera/bowl01.jpg" download>download</a></td>
+	</tr>
+</table>
+<br><hr><br>
+<table>
+	<tr>
+		<td id="bowl02">bowl 02</td>
+		<td id="bowl03">bowl 03</td>
+	</tr>
+	<tr>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/bowl02.jpg"></a>
+		<a href="!htmlroot!images/cera/bowl02.jpg" download>download</a></td>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/bowl03.jpg"></a>
+		<a href="!htmlroot!images/cera/bowl03.jpg" download>download</a></td>
+	</tr>
+</table>
+<br><hr><br>
+<table>
+	<tr>
+		<td id="bowl04">bowl 04</td>
+		<td id="bowl05">bowl 05</td>
+	</tr>
+	<tr>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/bowl04.jpg"></a>
+		<a href="!htmlroot!images/cera/bowl04.jpg" download>download</a></td>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/bowl05.jpg"></a>
+		<a href="!htmlroot!images/cera/bowl05.jpg" download>download</a></td>
+	</tr>
+</table>
+<br><hr><br>
+<table>
+	<tr>
+		<td id="cat-pot1">cat bowl, image 1</td>
+		<td id="cat-pot2">cat bowl, image 2</td>
+	</tr>
+	<tr>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/cat pot1.jpg"></a>
+		<a href="!htmlroot!images/cera/cat pot1.jpg" download>download</a></td>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/cat pot2.jpg"></a>
+		<a href="!htmlroot!images/cera/cat pot2.jpg" download>download</a></td>
+	</tr>
+</table>
+<br><hr><br>
+<table>
+	<tr>
+		<td id="cat-pot3">cat bowl, image 3</td>
+		<td id="vase01">vase 01</td>
+	</tr>
+	<tr>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/cat pot3.jpg"></a>
+		<a href="!htmlroot!images/cera/cat pot3.jpg" download>download</a></td>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/vase01.jpg"></a>
+		<a href="!htmlroot!images/cera/vase01.jpg" download>download</a></td>
+	</tr>
+</table>
+<br><hr><br>
+
+<table>
+	<tr>
+		<td id="vase02">vase 02</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td width="50%"><img width="100%" align="left" src="!htmlroot!images/cera/vase02.jpg"></a>
+		<a href="!htmlroot!images/cera/vase02.jpg" download>download</a></td>
+		<td width="50%"></td>
+	</tr>
+</table>
+<br><hr><br>
+
+</article>
+!!footer-1!
+</body>
+</html>
