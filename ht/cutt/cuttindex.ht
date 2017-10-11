@@ -9,8 +9,8 @@
 <body>
 !!header!
 <figure>
-<img class="Robin" height="300" src="!htmlroot!images/robin/robin02.png">
-<figcaption class="Robin">!!robcap02!</figcaption>
+<img class="Robin" height="600" align="center" src="!htmlroot!images/robin/robin01.svg">
+<figcaption class="Robin">!!robcap01!</figcaption>
 </figure>
 <p class="rgt">	<a id="top"></a>
 	<ul class="rgt">
