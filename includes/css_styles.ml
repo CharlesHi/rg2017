@@ -72,4 +72,14 @@ ul.rgt {
 	float: right;
 	clear: both;
 }
+p.in1	{
+	line-height: 1in;
+}
+.center	{
+	text-align:	center;
+}
+.hang	{
+	text-indent:	-3em;
+	margin-left:	3em;
+}
 </style>

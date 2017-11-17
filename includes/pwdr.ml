@@ -7,6 +7,7 @@
 	<a href="threecornered.html">&rarr; Three Cornered Cat</a><br>
 	--- <em> The Bound Stories </em> ---<br>
 	<a href="loavesfishes.html">&rarr; Loaves and Fishes</a></br>
+	<a href="bootie.html">&rarr; Mr. Powderface gets the Boot(ie)</a></br>
 	--- <em> The Later Stories </em> ---<br>
 	<a href="quiteayarn.html">&rarr; Quite a yarn</a><br>
 	<a href="unplugged.html">&rarr; Mr. Powderface Unplugged</a><br>
